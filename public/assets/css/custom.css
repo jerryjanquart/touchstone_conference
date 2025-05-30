@@ -1,0 +1,16 @@
+.speakers {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-black-rgb),var(--bs-text-opacity)) !important;
+  font-weight: 700;
+  letter-spacing: -.03em;
+  font-size: 2rem;
+}
+
+.swiper-pagination-bullet-active {
+  background: #f2df5c;
+  border-color: #f2df5c;
+}
+
+.swiper-pagination-bullet {
+  border: #f2df5c; background: #f2df5c;
+}
