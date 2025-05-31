@@ -17,9 +17,8 @@
 
 
                         <p class="mb-0 text-black">
-                            <strong>Our biggest lineup of speakers you won't want to miss&#8212;and our last conference at Trinity. </strong>
-                        </p>
-                        <p class="mb-0 text-black">Join us for this special <em>Touchstone</em> conference! Be sure to register as soon as you can.</p>
+                            <span style="font-size: larger"><strong>Our biggest lineup of speakers you won't want to miss&#8212;and our last conference at Trinity. </strong>
+                        Join us for this special <em>Touchstone</em> conference! Be sure to register as soon as you can.</span></p>
                     </div>
 
                     <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98" class="btn btn-dark">Register Today</a>
