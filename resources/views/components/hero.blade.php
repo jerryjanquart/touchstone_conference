@@ -23,7 +23,7 @@
                             <div class="row fixed-bottom">
                                 <div class="col-sm-3"></div>
                                 <div class="col-sm-6 pt-3" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, #cb9358) !important; border: solid black 1px;">
-                                    <p class="text-black" style="font-family: 'Times New Roman', Times, serif; font-size: 1.8rem; font-style: italic; font-weight: bold; line-height: 2rem">Recovering the Christian Life in a Post-Christian Age</p>
+                                    <p class="text-black tagline">Recovering the Christian Life in a Post-Christian Age</p>
                                 </div>
                                 <div class="col-sm-3"></div>
                             </div>

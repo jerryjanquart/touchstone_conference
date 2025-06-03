@@ -37,7 +37,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Paul Kingsnorth</h3>
-                                        <p class="text-black">Paul Kingsnorth is the author of nine books - three novels, two poetry collections and four works of non-fiction - all of which, it turns out, tell the same story: how we walked away from the wild world, and how we might get home again, if we can. He lives in the west of Ireland with his family, a dog, some chickens and a lot of trees. His website can be found at www.paulkingsnorth.net.</p>
+                                        <p class="text-black">Paul Kingsnorth is the author of nine books&#8212;three novels, two poetry collections and four works of non-fiction&#8212;all of which, it turns out, tell the same story: how we walked away from the wild world, and how we might get home again, if we can. His new book is <em>Against the Machine: The Unmaking of Humanity</em>. He lives in the west of Ireland with his family, a dog, some chickens and a lot of trees. His website can be found at <a href="https://www.paulkingsnorth.net/">www.paulkingsnorth.net</a>.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -64,7 +64,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Jonathan Pageau</h3>
-                                        <p class="text-black">Jonathan Pageau is a renowned liturgical artist, writer, and public speaker. Through his popular YouTube channel The Symbolic World, he has become a sought-out interpreter of the deep patterns in stories. With his 2022 publication of God's'Dog: Monster, a graphic novel invented with his brother Matthieu Pageau and artist Cord Nielson, Jonathan proved himself a powerful storyteller in his own right. The project’s successful crowdfunding encouraged him to continue his efforts to reclaim the storytelling landscape by starting a publishing company called Symbolic World Press.</p>
+                                        <p class="text-black">Jonathan Pageau is a renowned liturgical artist, writer, and public speaker. Through his popular YouTube channel <a href="https://www.youtube.com/c/JonathanPageau">The Symbolic World</a>, he has become a sought-out interpreter of the deep patterns in stories. With his 2022 publication of <em>God's'Dog: Monster</em>, a graphic novel invented with his brother Matthieu Pageau and artist Cord Nielson, Jonathan proved himself a powerful storyteller in his own right. The project’s successful crowdfunding encouraged him to continue his efforts to reclaim the storytelling landscape by starting a publishing company called Symbolic World Press.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -91,7 +91,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Matthew B. Crawford</h3>
-                                        <p class="text-black">Matthew Crawford studied physics at UC Santa Barbara and then turned to political philosophy, earning a PhD from the University of Chicago. He has published articles on ancient Greek philosophy, neuroscience, and the philosophy of science. He is the author of Why We Drive: Toward a Philosophy of the Open Road (HarperCollins, 2020); The World Beyond Your Head: On Becoming an Individual in an Age of Distraction (Farrar, Straus & Giroux, 2015); and Shop Class as Soulcraft: An Inquiry into the Value of Work (Penguin, 2009), a New York Times best seller that has been translated into seven languages.</p>
+                                        <p class="text-black">Matthew Crawford studied physics at UC Santa Barbara and then turned to political philosophy, earning a PhD from the University of Chicago. He has published articles on ancient Greek philosophy, neuroscience, and the philosophy of science. He is the author of <em>Why We Drive: Toward a Philosophy of the Open Road </em>; <em>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</em>; and <em>Shop Class as Soulcraft: An Inquiry into the Value of Work</em>, a <em>New York Times</em> best seller that has been translated into seven languages.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -119,7 +119,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Richard Rohlin </h3>
-                                        <p class="text-black">Richard Rohlin is a software developer, Germanic philologist, and Orthodox Christian living in Texas with his wife and children. He speaks and publishes on Germanic poetry, the Inklings, and the Sacramental Imagination. He regularly contributes to Jonathan Pageau’s The Symbolic World YouTube channel through the Universal History series, which has recently launched a 6-week course studying the epic poem Beowulf. Richard co-hosts The Amon Sul Podcast, and has published several works of fiction and non-fiction.</p>
+                                        <p class="text-black">Richard Rohlin is a software developer, Germanic philologist, and Orthodox Christian living in Texas with his wife and children. He speaks and publishes on Germanic poetry, the Inklings, and the Sacramental Imagination. He regularly contributes to Jonathan Pageau’s <a href="https://www.youtube.com/c/JonathanPageau"><em>The Symbolic World</em></a> YouTube channel through the <a href="https://www.youtube.com/watch?v=_N5s4n_lwB8">Universal History</a> series, which has recently launched a 6-week course studying the epic poem <em>Beowulf</em>. Richard co-hosts <a href="https://www.ancientfaith.com/podcasts/amonsul/">The Amon Sul Podcast</a>, and has <a href="https://www.goodreads.com/author/show/7510464.Richard_Rohlin?from_search=true&from_srp=true">published several works of fiction and non-fiction</a>.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -145,7 +145,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Helen Andrews</h3>
-                                        <p class="text-black">Helen Andrews is a former senior editor at The American Conservative, and the author of BOOMERS: The Men and Women Who Promised Freedom and Delivered Disaster (Sentinel, January 2021). She has worked at the Washington Examiner and National Review, and as a think tank researcher at the Centre for Independent Studies in Sydney, Australia. Her work has appeared in The New York Times, The Wall Street Journal, First Things, The Claremont Review of Books, Hedgehog Review, and many others. You can follow her on Twitter at @herandrews.</p>
+                                        <p class="text-black">Helen Andrews is a former senior editor at <em>The American Conservative</em>, and the author of <em>BOOMERS: The Men and Women Who Promised Freedom and Delivered Disaster</em>. She has worked at the <em>Washington Examiner</em> and <em>National Review</em>, and as a think tank researcher at the Centre for Independent Studies in Sydney, Australia. Her work has appeared in <em>The New York Times, The Wall Street Journal, First Things, The Claremont Review of Books, Hedgehog Review,</em> and many others. You can follow her on X at <a href="https://x.com/herandrews?lang=en">@herandrews</a>.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -171,7 +171,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Hans Boersma</h3>
-                                        <p class="text-black">Fr. Boersma, a prolific and internationally noted theologian, came to Nashotah House in 2019. Prior to this, he taught at Regent College in Vancouver, Canada for fourteen years. Fr. Boersma also taught for six years at Trinity Western University in Langley, BC, and served several years in the local church as a pastor. Along the way, Fr. Boersma has emerged as a leading voice among Protestant and evangelical theologians exploring and appropriating the riches of the Catholic tradition.</p>
+                                        <p class="text-black">Fr. Boersma, a prolific and internationally noted theologian, joined Nashotah House in 2019. Prior to this, he taught at Regent College in Vancouver, Canada for fourteen years. Fr. Boersma also taught for six years at Trinity Western University in Langley, BC, and served several years in the local church as a pastor. Along the way, Fr. Boersma has emerged as a leading voice among Protestant and evangelical theologians exploring and appropriating the riches of the Catholic tradition. He written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -199,7 +199,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">R. V. Young</h3>
-                                        <p class="text-black">R. V. Young is Professor of English Emeritus at North Carolina State University, a former editor of Modern Age: A Quarterly Review, and the author of Shakespeare and the Idea of Western Civilization (Catholic University of America Press, 2022). He and his wife are parishioners at St. Ignatius of Antioch Church in Tarpon Springs, Florida. They have five grown children, fifteen grandchildren, and three great-grandchildren. He is a senior editor of Touchstone.</p>
+                                        <p class="text-black">R. V. Young is Professor of English Emeritus at North Carolina State University, a former editor of <em>Modern Age: A Quarterly Review</em>, and the author of <em>Shakespeare and the Idea of Western Civilization</em>. He and his wife are parishioners at St. Ignatius of Antioch Church in Tarpon Springs, Florida. They have five grown children, fifteen grandchildren, and three great-grandchildren. He is a senior editor of <em><a href="https://www.touchstonemag.com/archives/author.php?id=192">Touchstone</a></em>.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -225,7 +225,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Douglas Farrow</h3>
-                                        <p class="text-black">Douglas Farrow is Professor of Theology and Ethics at McGill University in Montreal. His recent books include Ascension Theology, Desiring a Better Country, Theological Negotiations, and 1 & 2 Thessalonians in the Brazos Theological Commentary on the Bible. </p>
+                                        <p class="text-black">Douglas Farrow is Professor of Theology and Ethics at McGill University, and sometime Lecturer in Theology at King's College London. He is a fifth-generation Canadian whose ancestors were pioneers that hailed from Norfolk and from Skye. His recent books include <em>Ascension Theology, Desiring a Better Country, Theological Negotiations,</em> and <em>1 & 2 Thessalonians</em> in the Brazos Theological Commentary on the Bible. He is a contributing editor for <em><a href="https://www.touchstonemag.com/archives/author.php?id=899">Touchstone</a></em>. </p>
                                     </div>
                                     </div>
                                  </div>
@@ -251,7 +251,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Rod Dreher</h3>
-                                        <p class="text-black">Rod Dreher is a contributing editor to Touchstone. He is a writer and blogger and the author of several books, including The Benedict Option (2017) and Live Not by Lies: A Manual for Christian Dissidents (2020). </p>
+                                        <p class="text-black">Rod Dreher is a veteran of three decades of magazine and newspaper journalism and has written three <em>New York Times</em> bestsellers&#8212;<em>Live Not By Lies, The Benedict Option,</em> and <em>The Little Way of Ruthie Leming</em>&#8212;as well as <em>Crunchy Cons</em> and <em>How Dante Can Save Your Life</em>. He lives in Budapest, Hungary. He is a contributing editor for <em><a href="https://www.touchstonemag.com/archives/author.php?id=75">Touchstone</a></em>.</p>
                                     </div>
                                     </div>
                                  </div>
