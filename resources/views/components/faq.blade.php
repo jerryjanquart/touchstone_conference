@@ -14,8 +14,9 @@
             <div class="col-lg-5 col-md-6">
                 <div class="mb-7 mb-md-0 me-lg-7">
                     <div class="mb-4">
-                        <h2 class="mb-3">Registration: $325</h2>
+                        <h2 class="mb-3">Registration</h2>
                         <p class="mb-0 text-black">
+                            <span style="font-size: larger"><strong><u>$325 per registrant</u></strong></span> <br />
                             &#8226; 3 Days / 9 Lectures / 2 Panels<br />
                             &#8226; Meals / Refreshments / Evening receptions<br />
                             &#8226; Free subscription to <em>Touchstone</em>
@@ -25,7 +26,7 @@
                 <div class="rounded-3 card-lift my-5" style="
                             background-image: url(../assets/images/about-img/about-grid-img-4.jpg);
                             background-repeat: no-repeat;
-                            height: 400px;
+                            height: 450px;
                             background-size: cover;
                         "></div>
             </div>
@@ -48,6 +49,10 @@
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Tell me more about the free subscription?</h4>
                     <p class="mb-0 text-black">Attendees who are not currently <em>Touchstone</em> subscribers will have the opportunity to sign up for a subscription beginning with the Jan/Feb 2026 issue&#8212;with full access to the online archives.</p>
+                </div>
+                <div class="py-4 border-bottom">
+                    <h4 class="mb-3">What is included with the meals?</h4>
+                    <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements, please reach out to Melissa at office@fsj.org.</p>
                 </div>
             </div>
         </div>
