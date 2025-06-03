@@ -91,7 +91,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Matthew B. Crawford</h3>
-                                        <p class="text-black">Matthew Crawford studied physics at UC Santa Barbara and then turned to political philosophy, earning a PhD from the University of Chicago. He has published articles on ancient Greek philosophy, neuroscience, and the philosophy of science. He is the author of <em>Why We Drive: Toward a Philosophy of the Open Road </em>; <em>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</em>; and <em>Shop Class as Soulcraft: An Inquiry into the Value of Work</em>, a <em>New York Times</em> best seller that has been translated into seven languages.</p>
+                                        <p class="text-black">Matthew Crawford studied physics at UC Santa Barbara and then turned to political philosophy, earning a PhD from the University of Chicago. He has published articles on ancient Greek philosophy, neuroscience, and the philosophy of science. He is the author of <em>Why We Drive: Toward a Philosophy of the Open Road</em>; <em>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</em>; and <em>Shop Class as Soulcraft: An Inquiry into the Value of Work</em>, a <em>New York Times</em> best seller that has been translated into seven languages.</p>
                                     </div>
                                     </div>
                                  </div>
@@ -171,7 +171,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Hans Boersma</h3>
-                                        <p class="text-black">Fr. Boersma, a prolific and internationally noted theologian, joined Nashotah House in 2019. Prior to this, he taught at Regent College in Vancouver, Canada for fourteen years. Fr. Boersma also taught for six years at Trinity Western University in Langley, BC, and served several years in the local church as a pastor. Along the way, Fr. Boersma has emerged as a leading voice among Protestant and evangelical theologians exploring and appropriating the riches of the Catholic tradition. He written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years.</p>
+                                        <p class="text-black">Fr. Boersma, a prolific and internationally noted theologian, joined Nashotah House in 2019. Prior to this, he taught at Regent College in Vancouver, Canada for fourteen years. Fr. Boersma also taught for six years at Trinity Western University in Langley, BC, and served several years in the local church as a pastor. Along the way, Fr. Boersma has emerged as a leading voice among Protestant and evangelical theologians exploring and appropriating the riches of the Catholic tradition. He has written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years.</p>
                                     </div>
                                     </div>
                                  </div>
