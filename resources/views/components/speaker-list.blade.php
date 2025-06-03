@@ -1,5 +1,5 @@
          <!--Speakers start-->
-         <section class="py-8" id="speaker" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, #cb9358) !important;">
+         <section class="py-8 bg-pattern" id="speaker" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, #cb9358) !important;">
             
             <div class="row text-center">
                <div class="col">                  

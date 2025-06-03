@@ -5,6 +5,13 @@
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        <meta property="og:url" content="https://www.thetouchstoneconference.com/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="The 2025 Touchstone Conference" />
+        <meta property="og:description" content="Great and Wonderful Days: Recovering the Christian Life in a Post-Christian Age" />
+        <meta property="og:image" content="./assets/images/share/fb.jpg" />
+
         <!-- Favicon icon-->
         <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png" />
@@ -34,6 +41,15 @@
         <link rel="stylesheet" href="./assets/css/custom.css">
         
         <!-- Analytics Code Goes Here-->
+                <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HD5TT77KQZ"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-HD5TT77KQZ');
+        </script>
 
         <title>The 2025 Touchstone Conference</title>
 

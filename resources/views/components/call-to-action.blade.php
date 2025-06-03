@@ -1,8 +1,8 @@
 <!--Call to action start-->
-<section class="py-5 bg-black" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, hsl(31, 53%, 57%)) !important;">
+<section class="py-5 bg-black bg-pattern" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, hsl(31, 53%, 57%)) !important;">
     <div class="container">
         <div
-            class="row bg-pattern rounded-3 py-lg-7 py-5 g-0">
+            class="row rounded-3 py-lg-7 py-5 g-0">
             <div class="col-md-8 offset-md-2">
                 <div class="text-center position-relative z-1 px-5"
                     >
@@ -21,7 +21,7 @@
                         Join us for this special <em>Touchstone</em> conference! Be sure to register as soon as you can.</span></p>
                     </div>
 
-                    <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98" class="btn btn-dark">Register Today</a>
+                    <a style="text-decoration: none;" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98" class="btn btn-dark">Register Today</a>
                 </div>
             </div>
         </div>
