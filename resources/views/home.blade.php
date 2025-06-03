@@ -6,6 +6,7 @@
         <x-speaker-list />
         <x-speaker-bios />
         <x-venue />
+        <x-faq />
         <x-hotels />
         <x-call-to-action />
     </main>
