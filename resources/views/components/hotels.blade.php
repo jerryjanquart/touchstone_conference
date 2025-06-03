@@ -1,5 +1,5 @@
 <!--Customer stories start-->
-<section class="pt-xl-8 pt-5 bg-light">
+<section class="pb-xl-8 pb-5 pt-xl-5 pt-3 bg-light">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 offset-lg-3">
