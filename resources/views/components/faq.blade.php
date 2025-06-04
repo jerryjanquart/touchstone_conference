@@ -19,7 +19,8 @@
                             <span style="font-size: larger"><strong><u>$325 per registrant</u></strong></span> <br />
                             &#8226; 3 Days / 9 Lectures / 2 Panels<br />
                             &#8226; Meals / Refreshments / Evening receptions<br />
-                            &#8226; Free subscription to <em>Touchstone</em>
+                            &#8226; Free subscription to <em>Touchstone<br />
+                            &emsp;&emsp;&emsp;&emsp;* new subscribers only</em>
                         </p>
                     </div>
                 </div>
@@ -33,26 +34,26 @@
             <div class="col-lg-7 col-md-6">
                 <div class="pb-4 border-bottom">
                     <h4 class="mb-3">What is the schedule for the conference?</h4>
-                    <p class="mb-0 text-black">While the final schedule is not yet determined, doors open at 4 p.m. on Thursday, September 25, with the first talk beginning at 7 p.m. The last talk will be concluded at noon on the 27th. 
+                    <p class="mb-0 text-black">While the final schedule is still being determined, doors open at 4 p.m. on Thursday, September 25, with the first talk beginning at 7 p.m. The last talk will conclude around noon on the 27th. 
                     </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Will the sessions be live-streamed?</h4>
                     <p class="mb-0 text-black">
-                        Yes, the conference will be live-streamed, but tickets for that are not yet available. Attendees will also have access to the talks when they are posted to the <em>Touchstone</em> website.
+                        Yes, the conference will be live-streamed; registration will be available in August. Attendees will also have access to the talks when they are posted to the <em>Touchstone</em> website after the conference.
                     </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Is there a student rate or a discounted rate?</h4>
-                    <p class="mb-0 text-black">Yes, students can register <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=96">here</a> for a greatly-reduced rate! There is also a limited number of tickets available at a reduced rate. While these are not currently available, please email us to get put on the list to register at the reduced rate when they become available. info@touchstonemag.com</p>
+                    <p class="mb-0 text-black">Yes, students can register <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=96">here</a> for a greatly reduced rate! There are also a limited number of tickets available at a reduced rate. These tickets are not yet available; please email us at <u>info@touchstonemag.com</u> for us to add your name to the reduced rate registration list.</p>
                 </div>
                 <div class="py-4 border-bottom">
-                    <h4 class="mb-3">Tell me more about the free subscription?</h4>
+                    <h4 class="mb-3">Tell me more about the free subscription.</h4>
                     <p class="mb-0 text-black">Attendees who are not currently <em>Touchstone</em> subscribers will have the opportunity to sign up for a subscription beginning with the Jan/Feb 2026 issue&#8212;with full access to the online archives.</p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">What is included with the meals?</h4>
-                    <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements, please reach out to Melissa at office@fsj.org.</p>
+                    <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements, please contact Melissa at office@fsj.org.</p>
                 </div>
             </div>
         </div>
