@@ -22,9 +22,9 @@
                 <div class="card-body">
                     <h5 class="card-title text-black">La Quinta Inn &amp; Suites by Wyndham</h5>
                     <p class="card-text">
-                        <em><span style="color: black;">*Walking distance from Trinity!</span></em><br />
+                        <em><span style="color: black;">*Walking distance from Trinity!</em><br />
                         2000 Lakeside Dr.<br />
-                        Bannockburn, IL 60015
+                        Bannockburn, IL 60015</span>
                     </p>
                     <a href="https://www.wyndhamhotels.com/laquinta/bannockburn-illinois/la-quinta-bannockburn-deerfield/rooms-rates?brand_id=LQ&checkInDate=9/25/2025&checkOutDate=9/27/2025&useWRPoints=false&children=0&groupCode=stone2025&adults=1&rooms=1&loc=ChIJO0GKwZO_D4gRDxYCL73Z5i0&sessionId=1743696263" class="btn btn-dark">Book Now</a>
                 </div>
@@ -40,9 +40,9 @@
                 <div class="card-body">
                     <h5 class="card-title text-black">Homewood Suites by Hilton</h5>
                     <p class="card-text">
-                        <em><span style="color: black;">*Only 2 miles from Trinity</span></em><br />
+                        <em><span style="color: black;">*Only 2 miles from Trinity</em><br />
                         10 Westminster Way<br />
-                        Lincolnshire, IL 60069
+                        Lincolnshire, IL 60069</span>
                     </p>
                     <a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=CHILSHW&amp;groupCode=CHW903&amp;arrivaldate=2025-09-24&amp;departuredate=2025-09-27&amp;cid=OM,WW,HILTONLINK,EN,DirectLink&amp;fromId=HILTONLINKDIRECT" class="btn btn-dark">Book Now</a>
                 </div>
