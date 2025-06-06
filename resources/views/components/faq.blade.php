@@ -1,5 +1,5 @@
 <!--Have question start-->
-<section class="pt-xl-9 pt-5 bg-gray-100">
+<section class="pt-xl-9 pt-5 bg-my-gray">
     <div class="container">
 
         <div class="row">

@@ -44,3 +44,15 @@ a {
   background: #000;
   border: none;
 }
+
+.bg-my-gray {
+  background-color: #f1f5f9;
+}
+
+.bg-my-gray2 {
+  background-color: #ececec;;
+}
+
+.card-body {
+  color: white;
+}
