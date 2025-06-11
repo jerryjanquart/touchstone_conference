@@ -27,7 +27,7 @@
                 <div class="rounded-3 card-lift my-5" style="
                             background-image: url(../assets/images/about-img/about-grid-img-4.jpg);
                             background-repeat: no-repeat;
-                            height: 450px;
+                            height: 630px;
                             background-size: cover;
                         "></div>
             </div>
@@ -55,6 +55,12 @@
                     <h4 class="mb-3">What is included with the meals?</h4>
                     <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements, please contact Melissa at office@fsj.org.</p>
                 </div>
+
+                <div class="py-4 border-bottom">
+                    <h4 class="mb-3">Who do I contact for sponsorship opportunities?</h4>
+                    <p class="mb-0 text-black">A range of sponsorship packages are offered and can be found <a href="./assets/pdfs/sponsorship.pdf" target="_blank"> here</a> along with the appropriate contact information.</p>
+                </div>
+
             </div>
         </div>
     </div>
