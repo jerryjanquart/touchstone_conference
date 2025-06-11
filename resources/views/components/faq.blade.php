@@ -57,8 +57,8 @@
                 </div>
 
                 <div class="py-4 border-bottom">
-                    <h4 class="mb-3">Who do I contact for sponsorship opportunities?</h4>
-                    <p class="mb-0 text-black">A range of sponsorship packages are offered and can be found <a href="./assets/pdfs/sponsorship.pdf" target="_blank"> here</a> along with the appropriate contact information.</p>
+                    <h4 class="mb-3">I'd like to man a booth at the conference. What do I do?</h4>
+                    <p class="mb-0 text-black">We'd love to have you join us! A range of sponsorship packages are offered and can be found <a href="./assets/pdfs/sponsorship.pdf" target="_blank"> here</a> along with the appropriate contact information.</p>
                 </div>
 
             </div>
