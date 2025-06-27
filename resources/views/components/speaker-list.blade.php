@@ -15,22 +15,16 @@
                   <p class="speakers">Matthew B. Crawford
                   <p class="speakers">Helen Andrews
                   <p class="speakers">R. V. Young
+                  <p class="speakers">C. R. Wiley
                </div>
                <div class="col-lg-4">
                   <p class="speakers">Jonathan Pageau
                   <p class="speakers">Richard Rohlin
                   <p class="speakers">Hans Boersma 
                   <p class="speakers">Douglas Farrow
-               </div>
-               <div class="col-lg-2"></div>
-
-            </div>
-
-            <div class="row text-center">
-               
-               <div class="col">               
                   <p class="speakers">Rod Dreher
                </div>
+               <div class="col-lg-2"></div>
 
             </div>
             

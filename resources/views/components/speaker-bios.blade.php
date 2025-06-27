@@ -242,6 +242,32 @@
                         <div class="row align-items-center gy-4">
                            <div class="col-lg-6">
                               <div class="">
+                                 <img src="../assets/images/speakers/wiley.jpg" alt="" class="img-fluid rounded-3 w-100" />
+                              </div>
+                           </div>
+                           <div class="col-lg-7 col-12 ms-lg-n10">
+                              <div class="card">
+                                 <div class="card-body d-flex flex-column gap-4 p-6">
+                                    <div class="d-flex flex-column gap-md-3">
+                                    <div>
+                                        <h3 class="mb-3">C. R. Wiley</h3>
+                                        <p class="text-black">C. R. Wiley is a senior editor at <em>Touchstone,</em> a co-host of <em>The Theology Pugcast </em>(a podcast with listeners in 60 countries), and a Presbyterian pastor serving a church in the Pacific Northwest. Besides writing for magazines and publishing books, he has also been a college professor, a commercial real estate investor, a landlord, and a building contractor. Other publications he has written for include: <em>Modern Reformation, Sacred Architecture, World Magazine, Front Porch Republic, National Review,</em> and <em>First Things.</em> His most recent book is <em>In the House of Tom ­Bombadil</em> (2021).</p>
+                                    </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+
+
+
+
+                     <div class="swiper-slide">
+                        <div class="row align-items-center gy-4">
+                           <div class="col-lg-6">
+                              <div class="">
                                  <img src="../assets/images/speakers/dreher.jpg" alt="" class="img-fluid rounded-3 w-100" />
                               </div>
                            </div>
