@@ -171,7 +171,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Hans Boersma</h3>
-                                        <p class="text-black">Fr. Boersma, a prolific and internationally noted theologian, joined Nashotah House in 2019. Prior to this, he taught at Regent College in Vancouver, Canada for fourteen years. Fr. Boersma also taught for six years at Trinity Western University in Langley, BC, and served several years in the local church as a pastor. Along the way, Fr. Boersma has emerged as a leading voice among Protestant and evangelical theologians exploring and appropriating the riches of the Catholic tradition. He has written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years.</p>
+                                        <p class="text-black">Hans Boersma teaches theology at Nashotah House Theological Seminary in Wisconsin and is ordained as a priest in the Anglican Church in North America. He has written about sacramental ontology (<em>Heavenly Participation</em>), patristic exegesis (<em>Scripture as Real Presence</em>), and the practice of lectio divina (<em>Pierced by Love</em>). His forthcoming book on the metaphysics of creation is tentatively titled <em>Theophanizing Love</em>. He has written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years.</p>
                                     </div>
                                     </div>
                                  </div>
