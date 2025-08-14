@@ -171,7 +171,7 @@
                                     <div class="d-flex flex-column gap-md-3">
                                     <div>
                                         <h3 class="mb-3">Hans Boersma</h3>
-                                        <p class="text-black">Hans Boersma teaches theology at Nashotah House Theological Seminary in Wisconsin and is ordained as a priest in the Anglican Church in North America. He has written about sacramental ontology (<em>Heavenly Participation</em>), patristic exegesis (<em>Scripture as Real Presence</em>), and the practice of lectio divina (<em>Pierced by Love</em>). His forthcoming book on the metaphysics of creation is tentatively titled <em>Theophanizing Love</em>. He has written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years.</p>
+                                        <p class="text-black">Hans Boersma teaches theology at Nashotah House Theological Seminary in Wisconsin and is ordained as a priest in the Anglican Church in North America. He has written about sacramental ontology (<em>Heavenly Participation</em>), patristic exegesis (<em>Scripture as Real Presence</em>), and the practice of lectio divina (<em>Pierced by Love</em>). His forthcoming book on the metaphysics of creation is tentatively titled <em>Theophanizing Love</em>. He has written for <em><a href="https://www.touchstonemag.com/archives/author.php?id=339">Touchstone</a></em> for many years. His talk is titled "Miracles: Why We Will Walk on Water."</p>
                                     </div>
                                     </div>
                                  </div>
