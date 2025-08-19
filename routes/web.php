@@ -7,9 +7,9 @@ Route::get('/', function () {
 });
 
 Route::get('/allsaints', function () {
-    return redirect()->away('https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98');
+    return redirect()->away('https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=99');
 });
 
 Route::get('/christthesavior', function () {
-    return redirect()->away('https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98');
+    return redirect()->away('https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=99');
 });
