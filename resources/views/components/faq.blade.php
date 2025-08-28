@@ -58,7 +58,7 @@
 
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">I'd like to man a booth at the conference. What do I do?</h4>
-                    <p class="mb-0 text-black">Our space for tables if filled! However, we are still accepting sponsors for inclusion of a promotion in our folder, your organization’s logo and url up on our screen during breaks, or inclusion in our flyer. (<a href="http://thetouchstoneconference.test/assets/pdfs/sponsorship.pdf">see ‘a la carte’ options on the flyer</a>)</p>
+                    <p class="mb-0 text-black">Our space for tables if filled! However, we are still accepting sponsors for inclusion of a promotion in our folder, your organization’s logo and url up on our screen during breaks, or inclusion in our flyer. (<a href="https://thetouchstoneconference.com/assets/pdfs/sponsorship.pdf">see ‘a la carte’ options on the flyer</a>)</p>
                 </div>
 
             </div>
