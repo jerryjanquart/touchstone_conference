@@ -1,0 +1,42 @@
+
+<!--Call to action start-->
+<section class="py-5 bg-black bg-pattern" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, hsl(31, 53%, 57%)) !important;">
+    <div class="container">
+        <div
+            class="row rounded-3 py-lg-7 pt-5 pb-2 g-0">
+            <div class="col-md-8 offset-md-2">
+                <div class="text-center position-relative z-1 px-5"
+                    >
+                    <div class="mb-1">
+                        
+                        
+
+                        <center>                 
+                            <h2 class="text-black mb-3 mt-5" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">The 2025 <em>Touchstone</em> Conference</h2>
+                        </center>
+
+
+
+                        <p class="mb-4 text-black">
+                            <span style="font-size: larger"><strong>
+                                @session('success')
+                                <p class="mb-0 text-black"> {{ $value }} </p>
+                                @endsession
+                            </strong>
+                        </p>
+
+
+                        <form action="/logout" method="POST">
+                            @csrf
+                            <button class="btn btn-dark btn-sm mb-3" href="/logout">Logout</button> 
+                        </form>
+
+                        
+                        
+
+                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Call to action end-->
