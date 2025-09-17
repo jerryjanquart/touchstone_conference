@@ -9,15 +9,20 @@
                     <div class="mb-1">
                         
                         <center>                 
-                            <h2 class="text-black mb-3 mt-5" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">LIVESTREAM LOGIN</h2>
+                            <h2 class="text-black mb-3 mt-10" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">LIVESTREAM OPTIONS</h2>
+
+                            <a style="text-decoration: none;" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=100" class="btn btn-primary text-black">Register for Livestream!</a>
+
                         </center>
 
-                         @if (session()->has('pageFailure'))
-                            <p class="lead text-black mb-4"><strong> {{ session('pageFailure') }} </strong></p>
-                            @endif
+                        
 
-                        <p class="mb-4 text-black">
-                            <span style="font-size: larger"><strong>Enter your login credentials below.</strong>                            
+                        @if (session()->has('error'))
+                            <p class="lead text-black mb-4 mt-3"><strong> {{ session('error') }} </strong></p>
+                        @endif
+
+                        <p class="mb-4 text-black mt-4">
+                            <span style="font-size: larger"><strong>Or enter your login credentials below.</strong>                            
                         </p>
                         
                         <div class="row">

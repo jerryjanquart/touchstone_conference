@@ -25,7 +25,7 @@ class UserController extends Controller
             $request->session()->regenerate(); //initiates laravel cookie when successful
             return redirect('/livestream')->with('success', 'You have succussfully logged in.');
         } else { 
-            abort(404);
+            return back()->with('error', 'Login Fail. Please try again.');
         }
     }
 

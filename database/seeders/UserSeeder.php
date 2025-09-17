@@ -13,10 +13,12 @@ class UserSeeder extends Seeder
      */
     public function run(): void
     {
+
         DB::table('users')->insert([
-            'name' => 'Streamer',
-            'email' => 'email@email.com',
-            'password' => '$2y$12$TQXeSshmsfVTyvkkRYjrm.w3OMT.i0HXyqwExCOiS1H7z4U333SQO', // Conf2025
+            'name' => 'Conference Guest',
+            'email' => 'your@email.com',
+            'password' => '$2y$12$/WkfG7f.cI4k29z.iMMma.jdSShw5kfmA3wTFvk0NV4Mfphr6MnMi', // TS_Conf_4ar67
         ]);
+
     }
 }

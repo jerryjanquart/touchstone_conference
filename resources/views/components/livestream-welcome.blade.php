@@ -12,10 +12,8 @@
                         
 
                         <center>                 
-                            <h2 class="text-black mb-3 mt-5" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">The 2025 <em>Touchstone</em> Conference</h2>
+                            <h2 class="text-black mb-3 mt-10" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">The 2025 <em>Touchstone</em> Conference<br /> LIVESTREAM</h2>
                         </center>
-
-
 
                         <p class="mb-4 text-black">
                             <span style="font-size: larger"><strong>
@@ -25,10 +23,13 @@
                             </strong>
                         </p>
 
+                        <p class="text-black mb-6"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. Enjoy this talk by Rod Dreher with a panel afterwards from last year's conference.</p>
+
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pl_7dva3PP4?si=5U18MChMT43VFp06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
                         <form action="/logout" method="POST">
                             @csrf
-                            <button class="btn btn-dark btn-sm mb-3" href="/logout">Logout</button> 
+                            <button class="btn btn-dark btn mb-3 mt-6" href="/logout">Logout</button> 
                         </form>
 
                         
