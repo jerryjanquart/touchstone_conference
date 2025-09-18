@@ -1,4 +1,5 @@
 <!-- Table head options -->
+<a name="registration"></a>
 <section class="my-8">
     <div class="row text-center">
                <div class="col">                  
