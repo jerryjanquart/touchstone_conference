@@ -34,18 +34,18 @@
             <div class="col-lg-7 col-md-6">
                 <div class="pb-4 border-bottom">
                     <h4 class="mb-3">What is the schedule for the conference?</h4>
-                    <p class="mb-0 text-black">While the final schedule is still being determined, doors open at 4 p.m. on Thursday, September 25, with the first talk beginning at 7 p.m. The last talk will conclude around noon on the 27th. 
+                    <p class="mb-0 text-black">Doors open at 4 p.m. on Thursday, September 25, with the first talk beginning at 7 p.m. The last talk will conclude around noon on the 27th. The full schedule can be found <a href="./assets/pdfs/program.pdf">here</a>.
                     </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Will the sessions be live-streamed?</h4>
                     <p class="mb-0 text-black">
-                        Yes, the conference will be live-streamed; registration will be available in August. Attendees will also have access to the talks when they are posted to the <em>Touchstone</em> website after the conference.
+                        Yes, the conference will be live-streamed; registration is <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=100">now available</a>. Attendees will also have access to the talks when they are posted to the <em>Touchstone</em> website after the conference.
                     </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Is there a student rate or a discounted rate?</h4>
-                    <p class="mb-0 text-black">Yes, students can register <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=96">here</a> for a greatly reduced rate! There are also a limited number of tickets available at a reduced rate. These tickets are not yet available; please email us at <u>info@touchstonemag.com</u> for us to add your name to the reduced rate registration list.</p>
+                    <p class="mb-0 text-black">Yes, students can register <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=96">here</a> for a greatly reduced rate! There are also a limited number of tickets available at a reduced rate. </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Tell me more about the free subscription.</h4>
@@ -56,10 +56,6 @@
                     <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements, please contact Melissa at office@fsj.org.</p>
                 </div>
 
-                <div class="py-4 border-bottom">
-                    <h4 class="mb-3">I'd like to man a booth at the conference. What do I do?</h4>
-                    <p class="mb-0 text-black">Our space for tables if filled! However, we are still accepting sponsors for inclusion of a promotion in our folder, your organization’s logo and url up on our screen during breaks, or inclusion in our flyer. (<a href="https://thetouchstoneconference.com/assets/pdfs/sponsorship.pdf">see ‘a la carte’ options on the flyer</a>)</p>
-                </div>
 
             </div>
         </div>
