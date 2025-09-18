@@ -128,36 +128,6 @@
                         </div>
                      </div>
 
-
-
-
-
-                     <div class="swiper-slide">
-                        <div class="row align-items-center gy-4">
-                           <div class="col-lg-6">
-                              <div class="">
-                                 <img src="../assets/images/speakers/andrews.jpg" alt="" class="img-fluid rounded-3 w-100" />
-                              </div>
-                           </div>
-                           <div class="col-lg-7 col-12 ms-lg-n10">
-                              <div class="card">
-                                 <div class="card-body d-flex flex-column gap-4 p-6">
-                                    <div class="d-flex flex-column gap-md-3">
-                                    <div>
-                                        <h3 class="mb-3">Helen Andrews</h3>
-                                        <p class="text-black">Helen Andrews is a former senior editor at <em>The American Conservative</em>, and the author of <em>BOOMERS: The Men and Women Who Promised Freedom and Delivered Disaster</em>. She has worked at the <em>Washington Examiner</em> and <em>National Review</em>, and as a think tank researcher at the Centre for Independent Studies in Sydney, Australia. Her work has appeared in <em>The New York Times, The Wall Street Journal, First Things, The Claremont Review of Books, Hedgehog Review,</em> and many others. You can follow her on X at <a href="https://x.com/herandrews?lang=en">@herandrews</a>.</p>
-                                    </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-
-
-
-
-
                      <div class="swiper-slide">
                         <div class="row align-items-center gy-4">
                            <div class="col-lg-6">
