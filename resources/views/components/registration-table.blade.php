@@ -3,7 +3,7 @@
 <section class="my-8">
     <div class="row text-center">
                <div class="col">                  
-                  <h2 class="text-black mb-3" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">Registration Options</h2>
+                  <h2 class="text-black mb-6" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">REGISTRATION OPTIONS</h2>
                </div>
             </div>
     <div class="container">
