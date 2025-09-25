@@ -23,9 +23,9 @@
                             </strong>
                         </p>
 
-                        <p class="text-black mb-6"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. Enjoy this talk by Rod Dreher with a panel afterwards from last year's conference.</p>
+                        <p class="text-black mb-6"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. The Thursday evening talks begin at 6:45 p.m.</p>
 
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pl_7dva3PP4?si=5U18MChMT43VFp06" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/mty076NXpM4?si=H9FUGIIGcSecRUXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
                         <form action="/logout" method="POST">
                             @csrf
