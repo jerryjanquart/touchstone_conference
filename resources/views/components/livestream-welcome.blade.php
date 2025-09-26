@@ -23,9 +23,11 @@
                             </strong>
                         </p>
 
-                        <p class="text-black mb-6"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. The Thursday evening talks begin at 6:45 p.m.</p>
+                        <p class="text-black mb-6"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. The Friday morning talks begin at 9:00 a.m.</p>
 
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/mty076NXpM4?si=H9FUGIIGcSecRUXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <!-- Begin iframe code here -->
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/dihSurviXcA?si=EVQIV1YpmGMywswC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <!-- End iframe code here -->
 
                         <form action="/logout" method="POST">
                             @csrf
