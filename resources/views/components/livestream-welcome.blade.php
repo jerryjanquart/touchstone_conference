@@ -26,7 +26,7 @@
                         <p class="text-black mb-6"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. The Friday morning talks begin at 9:00 a.m.</p>
 
                         <!-- Begin iframe code here -->
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/dihSurviXcA?si=EVQIV1YpmGMywswC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/T8ali12GcdE?si=tVZHCRinvFqdo8Mq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <!-- End iframe code here -->
 
                         <form action="/logout" method="POST">
