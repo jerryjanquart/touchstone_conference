@@ -25,7 +25,7 @@
 
                         <p class="text-black mb-3"><strong>Thank you for registering for the livestream! </strong>Videos will be updated at the appropriate times. The Saturday morning talks begin at 9:00 a.m.</p>
 
-                        <p class="text-black mb-6">You can view all of the talks <a href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah8iTQMHofL7ZW0WA9B60eBU">here.</a>
+                        <p class="text-black mb-6">You can view all of the talks <a href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah8iTQMHofL7ZW0WA9B60eBU">here.</a></p>
 
                         <!-- Begin iframe code here -->
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/e1Y6zBRj9O0?si=lVEp7_AUcnS8I43c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
