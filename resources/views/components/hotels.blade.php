@@ -26,7 +26,6 @@
                         2000 Lakeside Dr.<br />
                         Bannockburn, IL 60015
                     </p>
-                    <a href="https://www.wyndhamhotels.com/laquinta/bannockburn-illinois/la-quinta-bannockburn-deerfield/rooms-rates?brand_id=LQ&checkInDate=9/25/2025&checkOutDate=9/27/2025&useWRPoints=false&children=0&groupCode=stone2025&adults=1&rooms=1&loc=ChIJO0GKwZO_D4gRDxYCL73Z5i0&sessionId=1743696263" class="btn btn-dark">Book Now</a>
                 </div>
                 </div>
             </div>
@@ -44,7 +43,6 @@
                         10 Westminster Way<br />
                         Lincolnshire, IL 60069
                     </p>
-                    <a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=CHILSHW&amp;groupCode=CHW903&amp;arrivaldate=2025-09-24&amp;departuredate=2025-09-27&amp;cid=OM,WW,HILTONLINK,EN,DirectLink&amp;fromId=HILTONLINKDIRECT" class="btn btn-dark">Book Now</a>
                 </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@
          </a>
          
          <div class="mt-3 mt-lg-0 d-flex justify-content-end">
-            <a style="text-decoration: none;" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98" class="btn btn-primary text-black">Register!</a> <a style="text-decoration: none;" href="https://www.thetouchstoneconference.com/livestream" class="btn btn-dark text-white"><u>Livestream</u></a> 
+            <a style="text-decoration: none;" href="https://www.thetouchstoneconference.com/livestream" class="btn btn-dark text-white"><u>Livestream</u></a> 
          </div>
          
       </div>

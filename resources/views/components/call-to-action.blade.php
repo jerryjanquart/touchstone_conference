@@ -11,17 +11,15 @@
                         
 
                <center>                 
-                  <h2 class="text-black mb-3" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">SEE YOU IN SEPTEMBER</h2>
+                  <h2 class="text-black mb-3" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">THANK YOU FOR ANOTHER GREAT CONFERENCE!</h2>
                </center>
 
 
 
                         <p class="mb-0 text-black">
-                            <span style="font-size: larger"><strong>You won't want to miss this all-star lineup of speakers&#8212;and our last conference at Trinity. </strong>
-                        Join us for this special <em>Touchstone</em> conference! Be sure to register as soon as you can, because we fully expect this event to sell out.</span></p>
+                            <span style="font-size: larger"><strong>The next <em>Touchstone</em> conference will be September 24-26, 2026 at our new venue in Oakbrook, Illinois!</span></p>
                     </div>
 
-                    <a style="text-decoration: none;" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=98" class="btn btn-dark">Register Today</a>
                 </div>
             </div>
         </div>
