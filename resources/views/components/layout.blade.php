@@ -51,7 +51,13 @@
             gtag('config', 'G-HD5TT77KQZ');
         </script>
 
-        <title>The 2025 Touchstone Conference</title>
+       <title>
+            @isset($doctitle)
+            {{$doctitle}} | The 2025 Touchstone Conference
+            @else
+            The 2025 Touchstone Conference
+            @endisset
+    </title>
 
     </head>
 

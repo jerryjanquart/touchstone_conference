@@ -1,4 +1,4 @@
-<x-layout >
+<x-layout doctitle="Livestream">
     <x-nav />
     <main>
         <x-livestream-welcome />

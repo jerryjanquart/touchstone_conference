@@ -1,4 +1,4 @@
-<x-layout >
+<x-layout doctitle="Log In">
     <x-nav />
     <main>
         <x-login-form />
