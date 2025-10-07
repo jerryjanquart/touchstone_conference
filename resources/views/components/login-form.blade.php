@@ -9,9 +9,7 @@
                     <div class="mb-1">
                         
                         <center>                 
-                            <h2 class="text-black mb-3 mt-10" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">LIVESTREAM OPTIONS</h2>
-
-                            <a style="text-decoration: none;" href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=100" class="btn btn-primary text-black">Register for Livestream!</a>
+                            <h2 class="text-black mb-3 mt-10" style="font-family: 'Times New Roman', Times, serif; font-size: 2rem; font-weight: bold;">WATCH THE CONFERENCE!</h2>
 
                         </center>
 
@@ -22,7 +20,7 @@
                         @endif
 
                         <p class="mb-4 text-black mt-4">
-                            <span style="font-size: larger"><strong>Or enter your login credentials below.</strong>                            
+                            <span style="font-size: larger"><strong>Enter your login credentials below.</strong>                            
                         </p>
                         
                         <div class="row">
