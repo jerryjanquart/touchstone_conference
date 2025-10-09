@@ -8,7 +8,8 @@
          </a>
          
          <div class="mt-3 mt-lg-0 d-flex justify-content-end">
-            <a style="text-decoration: none;" href="https://www.thetouchstoneconference.com/livestream" class="btn btn-dark text-white"><u>Livestream</u></a> 
+            <a style="text-decoration: none;" href="/livestream" class="btn btn-primary text-black"><u>Watch Videos</u></a> 
+            <a style="text-decoration: none;" href="/photos" class="btn btn-dark text-white"><u>Photo Gallery</u></a> 
          </div>
          
       </div>

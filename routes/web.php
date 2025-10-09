@@ -9,6 +9,10 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/photos', function () {
+    return view('photos');
+});
+
 
 Route::get('/livestream', [LivestreamController::class, 'view'])->middleware(MustBeLoggedIn::class);
 
