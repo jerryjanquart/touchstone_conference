@@ -24,6 +24,7 @@
             </div>
         </div>
     </div>
+    <x-logout /> 
 </section>
 <!--project idea-->
         

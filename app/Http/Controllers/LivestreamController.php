@@ -13,7 +13,7 @@ class LivestreamController extends Controller
 
     public function watch($id) 
     {
-        //dd($id);
+
         if ($id == 'thursday') {
             $embedCode = 'https://www.youtube.com/embed/mty076NXpM4?si=BV0Zrfyq0z887rDi';
             $title = 'Thursday Evening';
@@ -37,8 +37,6 @@ class LivestreamController extends Controller
         } else {
             return abort(404);
         }
-
-
 
         return view('livestream-embed', ['embedCode' => $embedCode, 'title' => $title, 'speakers' => $speakers]);
     }

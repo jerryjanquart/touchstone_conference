@@ -32,7 +32,7 @@ class UserController extends Controller
 
     public function logout() {
         auth()->logout();
-        return redirect('/login')->with('success', 'You are now logged out.');
+        return redirect('/');
     }
     
 

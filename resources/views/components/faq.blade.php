@@ -14,7 +14,7 @@
             <div class="col-lg-5 col-md-6">
                 <div class="mb-7 mb-md-0 me-lg-7">
                     <div class="mb-4">
-                        <h2 class="mb-3">Registration</h2>
+                        <h2 class="mb-3">Registration <br />Closed</h2>
                         <p class="mb-0 text-black">
                             <span style="font-size: larger"><strong><u>$325 per registrant</u></strong></span> <br />
                             &#8226; 3 Days / 9 Lectures / 2 Panels<br />
@@ -40,12 +40,12 @@
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Will the sessions be live-streamed?</h4>
                     <p class="mb-0 text-black">
-                        Yes, the conference will be live-streamed; registration is <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=100">now available</a>. Attendees will also have access to the talks when they are posted to the <em>Touchstone</em> website after the conference.
+                        Yes, the conference were live-streamed. Attendees will also have access to the talks when they are posted to the <em>Touchstone</em> website after the conference. Attendees can login <a href="https://www.thetouchstoneconference.com/login">here</a>.
                     </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Is there a student rate or a discounted rate?</h4>
-                    <p class="mb-0 text-black">Yes, students can register <a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=96">here</a> for a greatly reduced rate! There are also a limited number of tickets available at a reduced rate. </p>
+                    <p class="mb-0 text-black">Yes, students can register for a greatly reduced rate! There are also a limited number of tickets available at a reduced rate. </p>
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">Tell me more about the free subscription.</h4>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="py-4 border-bottom">
                     <h4 class="mb-3">What is included with the meals?</h4>
-                    <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements, please contact Melissa at office@fsj.org.</p>
+                    <p class="mb-0 text-black">Lunch and dinner on Friday are provided, in addition to morning refreshment breaks on both Friday and Saturday. Should you have any inquiries regarding specific dietary requirements.</p>
                 </div>
 
 

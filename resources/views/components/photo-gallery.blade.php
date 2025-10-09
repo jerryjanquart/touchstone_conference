@@ -59,8 +59,13 @@
             </div>
 
             <div class="row py-3">
+                <x-photo-card img="./assets/images/gallery/crawford.jpg"></x-photo-card>
+                <x-photo-card img="./assets/images/gallery/dreher.jpg">Matthew B. Crawford / Rod Dreher</x-photo-card>
+            </div>
+
+            <div class="row py-3">
                 <x-photo-card img="./assets/images/gallery/folder.jpg"></x-photo-card>
-                <x-photo-card img="./assets/images/gallery/singing.jpg">Prayer &amp; Song led by Fr. Wilbur</x-photo-card>
+                <x-photo-card img="./assets/images/gallery/singing.jpg">Prayer &amp; Song led by Fr. Wilbur Ellsworth</x-photo-card>
             </div>
             
         </div>           
