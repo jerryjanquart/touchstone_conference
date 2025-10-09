@@ -1,6 +1,6 @@
 
 <!--Call to action start-->
-<section class="py-5 bg-black bg-pattern" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, hsl(31, 53%, 57%)) !important;">
+<section class="py-2 bg-black bg-pattern" style="padding-left: 0px;margin-top: 0px; margin: 0px; padding: 0px; background: linear-gradient(45deg, #f2df5c, hsl(31, 53%, 57%)) !important;">
     <div class="container">
         <div
             class="row rounded-3 py-lg-7 pt-5 pb-2 g-0">
@@ -23,18 +23,9 @@
                             </strong>
                         </p>
 
-                        <p class="text-black mb-3"><strong>Thank you for joining us this year! </strong></p>
                         
-                        <p class="text-black mb-6">The opening session with talks from Douglas Farrow and Hans Boersma is below. <br />You can view all of the talks <a href="https://www.youtube.com/playlist?list=PL0Ctn8Z_Aah8iTQMHofL7ZW0WA9B60eBU"><strong>here.</strong></a></p>
-
-                        <!-- Begin iframe code here -->
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/mty076NXpM4?si=SWik4IM1jcu0DZDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                        <!-- End iframe code here -->
-
-                        <form action="/logout" method="POST">
-                            @csrf
-                            <button class="btn btn-dark btn mb-3 mt-6" href="/logout">Logout</button> 
-                        </form>
+                        
+                        
 
                         
                         
