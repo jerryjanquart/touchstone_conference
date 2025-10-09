@@ -14,7 +14,6 @@ Route::get('/photos', function () {
 });
 
 Route::get('/livestream', [LivestreamController::class, 'index'])->middleware(MustBeLoggedIn::class);
-Route::get('/{id}', [LivestreamController::class, 'watch'])->middleware(MustBeLoggedIn::class);
 
 
 //login
@@ -22,4 +21,5 @@ Route::get('/login', [UserController::class, 'loginpage']);
 Route::post('/login', [UserController::class, 'login']);
 Route::post('/logout', [UserController::class, 'logout']);
 
+Route::get('/{id}', [LivestreamController::class, 'watch'])->middleware(MustBeLoggedIn::class);
 
