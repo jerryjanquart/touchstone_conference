@@ -39,6 +39,7 @@
                                         aria-describedby="name"
                                         type="text"  
                                         class="form-control mb-3"
+                                        required
                                         >
                                     
                                     <!--password-->
@@ -49,6 +50,7 @@
                                         aria-describedby="password"
                                         type="text"  
                                         class="form-control mb-3"
+                                        required
                                         >
                                     
                                         <center>
