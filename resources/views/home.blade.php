@@ -3,7 +3,7 @@
     <main>
 
         <h1 style="font-size: 5rem; color: red;">
-            2026 REDESIGN BRANCH
+            2026 DESIGN BRANCH
         </h1>
         <x-hero />
         <x-location />  
