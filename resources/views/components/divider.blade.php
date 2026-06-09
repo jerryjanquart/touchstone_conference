@@ -1,0 +1,1 @@
+<div class="h-1 bg-slate-200 w-36 mx-auto mb-10"></div>
