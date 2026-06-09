@@ -5,13 +5,43 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ $title ?? 'Touchstone Conference' }}</title>
+        <title>Touchstone Conference 2026 | City on a Hill?</title>
+
+        <meta
+            name="description"
+            content="Join us September 24–26, 2026, as Touchstone celebrates its 40th anniversary and explores the theme 'City on a Hill? Christians in America at 250.'"
+        />
+
+        <meta name="robots" content="index, follow">
+
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://thetouchstoneconference.com">
+        <meta property="og:title" content="Touchstone Conference 2026">
+        <meta property="og:description" content="Join us September 24–26, 2026, as Touchstone celebrates its 40th anniversary and explores the theme 'City on a Hill? Christians in America at 250.'">
+        <meta property="og:image" content="https://thetouchstoneconference.com/assets/images/og-image.jpg">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Touchstone Conference 2026">
+        <meta name="twitter:description" content="Join us September 24–26, 2026, as Touchstone celebrates its 40th anniversary and explores the theme 'City on a Hill? Christians in America at 250.'">
+        <meta name="twitter:image" content="https://thetouchstoneconference.com/assets/images/og-image.jpg">
+
+        <meta name="author" content="The Fellowship of St. James">
+        <meta name="theme-color" content="#7A1F1F">
 
         @vite(['resources/css/app.css', 'resources/js/app.js'])
 
         <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
     </head>
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HD5TT77KQZ"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-HD5TT77KQZ');
+    </script>
 
     <body>
 
