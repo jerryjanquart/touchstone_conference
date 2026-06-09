@@ -1,7 +1,7 @@
 <nav class="pb-6">
     <div class="flex justify-center gap-10 font-serif text-md">
 
-        <a href="#speakers" class="text-stone-500 hover:text-black transition-colors duration-300 ">
+        <a href="#featured-speakers" class="text-stone-500 hover:text-black transition-colors duration-300 ">
             Speakers
         </a>
 

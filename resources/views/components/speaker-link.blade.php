@@ -1,8 +1,14 @@
 {{-- resources/views/components/speaker-link.blade.php --}}
 
-<button {{ $attributes->merge([
-    'class' => 'group inline-flex flex-col items-center'
-]) }}>
+@props(['index'])
+
+<button
+    type="button"
+    @click="setSpeaker({{ $index }})"
+    {{ $attributes->merge([
+        'class' => 'group inline-flex flex-col items-center transition-colors hover:text-[#8b1e1e]'
+    ]) }}
+>
     <span class="text-xl">
         {{ $slot }}
     </span>

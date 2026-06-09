@@ -1,4 +1,4 @@
-<section id="about" class="pb-8 text-center">
+<section id="about" class="pb-8 text-center" data-aos="fade-up">
     <div class="mx-auto max-w-3xl">
 
         <img
@@ -34,4 +34,7 @@
 
         </div>
     </div>
+    
 </section>
+
+<x-divider />

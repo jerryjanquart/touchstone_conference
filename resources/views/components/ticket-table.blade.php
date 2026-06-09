@@ -1,24 +1,24 @@
-<section id="registration" class="mb-10">
+<section id="registration" class="mb-10" data-aos="fade-up">
 
 
 <div class="mt-12 text-center">
-    <p class="text-2xl text-touchstone-red">
-        Join us September 24–26
-    </p>
+        <p class="text-2xl text-touchstone-red">
+            Join us September 24–26
+        </p>
 
-    <p class="mt-1 mb-6 text-xl italic text-black">
-        at our new location in Oak Brook, Illinois
-    </p>
-</div>
+        <p class="mt-1 mb-6 text-lg text-black">
+            <em>as we celebrate </em>Touchstone<em>’s 40th anniversary<br />at our new conference venue in Oak Brook, Illinois.</em>
+        </p>
+    </div>
 
-<div class="text-center mb-12">
-    <a
-        href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"
-        class="inline-block rounded-md bg-[#7A1F1F] px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
-    >
-        Register Now
-    </a>
-</div>
+    <div class="text-center mb-12">
+        <a
+            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"
+            class="inline-block rounded-md bg-[#7A1F1F] px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
+        >
+            Register Now
+        </a>
+    </div>
 
 
 <div class="overflow-hidden">
@@ -77,3 +77,5 @@
 </div>
 
 </section>
+
+<x-divider />

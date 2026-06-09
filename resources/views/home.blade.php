@@ -1,13 +1,11 @@
 <x-layout title="Touchstone Conference 2026">
 
     <x-nav />
-    
-    <x-hero />
-
-    <x-about />
-
-    <x-speaker-carousel />
-
+    <div x-data="speakerCarousel()">
+        <x-hero />
+        <x-about />
+        <x-speaker-carousel />
+    </div>
     <x-venue /> 
 
     <x-faq />

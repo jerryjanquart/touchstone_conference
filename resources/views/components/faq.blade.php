@@ -1,5 +1,5 @@
-<section id="faq">
-    <div class="mx-auto max-w-3xl px-6 mb-16">
+<section id="faq" class="mb-12" data-aos="fade-up">
+    <div class="mx-auto max-w-3xl px-6">
 
         <h2 class="mb-10 text-center text-4xl text-touchstone-red">
             FAQ
@@ -46,7 +46,7 @@
                 <p class="mt-3 text-md leading-6 text-stone-700 pl-8">
                     Attendees who are not currently <em>Touchstone</em> subscribers will have
                     the opportunity to sign up for a subscription beginning with the
-                    Jan/Feb 2026 issue, including full access to the online archives.
+                    Jan/Feb 2027 issue, including full access to the online archives.
                 </p>
             </div>
 
@@ -72,3 +72,5 @@
     </div>
 
 </section>
+
+<x-divider />

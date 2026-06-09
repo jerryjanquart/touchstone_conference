@@ -1,4 +1,4 @@
-<section id="hero" data-aos="fade" class="pb-8">
+<section id="hero" data-aos="fade" class="pb-2">
 
     <div class="border-y border-stone-300 bg-stone-100 px-6 py-4 text-center">
         <p class="text-sm font-semibold uppercase tracking-[0.2em] text-[#8b1e1e]">
@@ -25,35 +25,35 @@
 
     <div class="mt-12 grid grid-cols-1 gap-y-4 md:grid-cols-2 px-2">
 
-        <x-speaker-link>
+        <x-speaker-link index="0">
             Bradley J. Birzer
         </x-speaker-link>
 
-        <x-speaker-link>
+        <x-speaker-link index="1">
             J. Budziszewski
         </x-speaker-link>   
 
-        <x-speaker-link>
+        <x-speaker-link index="2">
             Patrick Deneen
         </x-speaker-link> 
 
-        <x-speaker-link>
+        <x-speaker-link index="3">
             Rod Dreher
         </x-speaker-link> 
 
-        <x-speaker-link>
+        <x-speaker-link index="4">
             Carrie Gress
         </x-speaker-link> 
         
-        <x-speaker-link>
+        <x-speaker-link index="5">
             Adam J. MacLeod
         </x-speaker-link> 
 
-        <x-speaker-link>
+        <x-speaker-link index="6">
             Carl R. Trueman
         </x-speaker-link> 
 
-        <x-speaker-link>
+        <x-speaker-link index="7">
             Fr. Theophan Warren
         </x-speaker-link> 
 
@@ -65,7 +65,7 @@
         </p>
 
         <p class="mt-1 mb-6 text-lg text-black">
-            <em>as we celebrate <em>Touchstone</em>’s 40th anniversary<br />at our new conference venue in Oak Brook, Illinois.</em>
+            <em>as we celebrate </em>Touchstone<em>’s 40th anniversary<br />at our new conference venue in Oak Brook, Illinois.</em>
         </p>
     </div>
 

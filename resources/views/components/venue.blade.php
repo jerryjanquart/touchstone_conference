@@ -1,4 +1,4 @@
-<section class="pt-4 pb-16" id="venue">
+<section class="pt-4 pb-16" id="venue" data-aos="fade-up">
     <div class="mx-auto max-w-6xl">
 
         <div class="grid gap-8 lg:grid-cols-2 lg:items-center">
@@ -51,3 +51,5 @@
 
     </div>
 </section>
+
+<x-divider />
