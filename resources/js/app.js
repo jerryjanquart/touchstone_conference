@@ -5,6 +5,10 @@ import 'aos/dist/aos.css';
 
 import Alpine from 'alpinejs';
 
+import.meta.glob([
+    '../images/**',
+]);
+
 window.Alpine = Alpine;
 
 window.speakerCarousel = function () {
