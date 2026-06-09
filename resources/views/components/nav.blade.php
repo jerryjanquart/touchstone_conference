@@ -1,17 +1,20 @@
-<!-- Navbar -->
-<header>
-   <nav class="navbar navbar-expand-lg transparent navbar-transparent navbar-dark">
-      <div class="container px-3">
-         
-         <a class="navbar-brand" href="/">
-            <img src="assets/images/logo/logo.png" width="200px" alt />
-         </a>
-         
-         <div class="mt-3 mt-lg-0 d-flex justify-content-end">
-            <a style="text-decoration: none;" href="https://www.touchstonemag.com/conferences/conference.php?year=2025" class="btn btn-primary text-black"><u>All Videos</u></a> 
-            <a style="text-decoration: none;" href="/photos" class="btn btn-dark text-white"><u>Photo Gallery</u></a> 
-         </div>
-         
-      </div>
-   </nav>
-</header>
+<nav class="pb-6">
+    <div class="flex justify-center gap-10 font-serif text-md">
+
+        <a href="#featured-speakers" class="text-stone-500 hover:text-black transition-colors duration-300 ">
+            Speakers
+        </a>
+
+        <a href="#venue" class="text-stone-500 hover:text-black transition-colors duration-300 ">
+            Venue
+        </a>
+
+        <a href="#faq" class="text-stone-500 hover:text-black transition-colors duration-300 ">
+            FAQ
+        </a>
+
+        <a href="#registration" class="text-stone-500 hover:text-black transition-colors duration-300 ">
+            Registration
+        </a>
+    </div>
+</nav>

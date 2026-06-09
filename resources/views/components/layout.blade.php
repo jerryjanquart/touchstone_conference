@@ -1,85 +1,82 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
 
-   <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <meta property="og:url" content="https://www.thetouchstoneconference.com/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="The 2025 Touchstone Conference" />
-        <meta property="og:description" content="Great and Wonderful Days: Recovering the Christian Life in a Post-Christian Age" />
-        <meta property="og:image" content="./assets/images/share/fb.jpg" />
+        <title>{{ $title ?? 'Touchstone Conference' }}</title>
 
-        <!-- Favicon icon-->
-        <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png" />
-        <link rel="manifest" href="./assets/images/favicon/site.webmanifest" />
-        <link rel="mask-icon" href="./assets/images/favicon/block-safari-pinned-tab.svg" color="#8b3dff" />
-        <link rel="shortcut icon" href="./assets/images/favicon/favicon.ico" />
-        <meta name="msapplication-TileColor" content="#8b3dff" />
-        <meta name="msapplication-config" content="./assets/images/favicon/tile.xml" />
+        @vite(['resources/css/app.css', 'resources/js/app.js'])
 
-        <!-- Color modes -->
-        <script src="./assets/js/vendors/color-modes.js"></script>
-
-        <!-- Libs CSS -->
-        <link href="./assets/libs/simplebar/dist/simplebar.min.css" rel="stylesheet" />
-        <link href="./assets/libs/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet" />
-        <link rel="stylesheet" href="./assets/libs/swiper/swiper-bundle.min.css" />
-
-        <!-- Scroll Cue -->
-        <link rel="stylesheet" href="./assets/libs/scrollcue/scrollCue.css" />
-
-        <!-- Box icons -->
-        <link rel="stylesheet" href="./assets/fonts/css/boxicons.min.css" />
-
-        <!-- Theme CSS -->
-        <link rel="stylesheet" href="./assets/css/theme.min.css">
-        <link rel="stylesheet" href="./assets/css/custom.css">
-        
-        <!-- Analytics Code Goes Here-->
-                <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HD5TT77KQZ"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-HD5TT77KQZ');
-        </script>
-
-       <title>
-            @isset($doctitle)
-            {{$doctitle}} | The 2025 Touchstone Conference
-            @else
-            The 2025 Touchstone Conference
-            @endisset
-    </title>
-
+        <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
     </head>
 
+
     <body>
-    
-        {{ $slot }}
 
-        <!-- Libs JS -->
-        <script src="./assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="./assets/libs/simplebar/dist/simplebar.min.js"></script>
-        <script src="./assets/libs/headhesive/dist/headhesive.min.js"></script>
-        <script src="./assets/libs/headhesive/dist/headhesive.min.js"></script>
+        <div class="min-h-screen bg-[#332d29]">
+            <div class="mx-auto flex max-w-screen-2xl justify-center">
 
-        <!-- Theme JS -->
-        <script src="./assets/js/theme.min.js"></script>
-        <script src="./assets/libs/scrollcue/scrollCue.min.js"></script>
-        <script src="./assets/js/vendors/scrollcue.js"></script>
+                <!-- Left Column -->
+                <!-- Left Column -->
+                <aside class="hidden lg:block lg:w-48 xl:w-72 shrink-0">
+                    <div class="sticky top-0 h-screen">
+                        <img
+                            src="{{ Vite::asset('resources/images/left.jpg') }}"
+                            alt=""
+                            class="h-full w-full object-cover object-top"
+                        >
+                    </div>
+                </aside>
+
+                <!-- Center Content -->
+                <main class="flex-1 max-w-2xl bg-white">
+                    <div class="mx-auto px-8 lg:px-16 py-8">
+
+                        {{ $slot }}
+
+                        <footer class="pb-16 text-center">
+
+                            <p class="text-2xl">
+                                The 2026 <em>Touchstone</em> Conference
+                            </p>
+
+                            <p class="mt-2 italic text-black">
+                                City on a Hill? Christians in America at 250
+                            </p>
+
+                            <p class="mt-6 text-sm text-black">
+                                Presented by <em>Touchstone: A Journal of Mere Christianity</em>
+                            </p>
+
+                            <p class="mt-2 text-sm text-stone-500">
+                                © 2026 The Fellowship of St. James
+                            </p>
+
+                        </footer>
+
+                    </div>
+                </main>
+
+                
+
+                <!-- Right Column -->
+                <!-- Right Column -->
+                <aside class="hidden lg:block lg:w-48 xl:w-72 shrink-0">
+                    <div class="sticky top-0 h-screen">
+                        <img
+                            src="{{ Vite::asset('resources/images/right3.jpg') }}"
+                            alt=""
+                            class="h-full w-full object-cover object-top"
+                        >
+                    </div>
+                </aside>
+
+            </div>
+        </div>
+
         
-        <!-- Swiper JS -->
-        <script src="./assets/libs/swiper/swiper-bundle.min.js"></script>
-        <script src="./assets/js/vendors/swiper.js"></script>
-        
-   
+
     </body>
 </html>
