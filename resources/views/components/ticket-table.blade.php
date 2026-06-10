@@ -53,7 +53,13 @@
                     Same conference access as Standard Registration
                 </td>
                 <td class="px-6 py-4 text-right">
-                    $25
+                     <a
+                            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=107"
+                            target="_blank"
+                            class="inline-flex items-center rounded-md border border-gray-300 px-2 py-1 transition-all duration-300 hover:bg-gray-100 text-sm"
+                        >
+                            Student $25
+                        </a>
                 </td>
             </tr>
 
