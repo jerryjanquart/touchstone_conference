@@ -14,7 +14,7 @@
     <div class="text-center mb-12">
         <a
             href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"
-            class="inline-block rounded-md bg-[#7A1F1F] px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
+            class="inline-block rounded-md bg-touchstone-red px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
         >
             Register Now
         </a>
@@ -77,6 +77,10 @@
 
             <tr>
                 <td colspan="3" class="px-6 py-6 text-center italic text-stone-800">Interested in a reduced-rate registration? Email conference@touchstonemag.com to be added to the waitlist.</td>
+            </tr>
+
+            <tr>
+                <td colspan="3" class="px-6 py-6 text-center italic text-stone-800">Questions about the conference? <br />Please contact Melissa Wagner at office@fsj.org.</td>
             </tr>
         </tbody>
     </table>
