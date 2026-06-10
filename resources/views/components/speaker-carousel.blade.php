@@ -1,4 +1,4 @@
-<section id="featured-speakers" class="scroll-mt-24 mb-12" data-aos="fade-up">
+<section id="featured-speakers" class="scroll-mt-36 mb-12" data-aos="fade-up">
 
 <div class="text-center">
     <h3 class="mt-2 text-3xl text-touchstone-red">

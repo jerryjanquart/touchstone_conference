@@ -1,4 +1,4 @@
-<section id="faq" class="mb-12" data-aos="fade-up">
+<section id="faq" class="mb-12 scroll-mt-24" data-aos="fade-up">
     <div class="mx-auto max-w-3xl px-6">
 
         <h2 class="mb-10 text-center text-4xl text-touchstone-red">

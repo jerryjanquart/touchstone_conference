@@ -1,4 +1,4 @@
-<section id="registration" class="mb-10" data-aos="fade-up">
+<section id="registration" class="mb-10 scroll-mt-24" data-aos="fade-up">
 
 
 <div class="mt-12 text-center">
