@@ -9,7 +9,7 @@
 
         <blockquote class="text-2xl text-touchstone-red leading-10 mb-8">
             <p>
-                “For we must consider that we shall be <br />as a city upon a hill. <br />The eyes of all people are upon us.”
+                “For we must consider that we shall be as a city upon a hill. The eyes of all people are upon us.”
             </p>
         </blockquote>
 

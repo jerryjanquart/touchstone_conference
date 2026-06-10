@@ -13,7 +13,7 @@
         <div class="grid gap-2 md:grid-cols-2">
 
             <!-- Photo -->
-            <div>
+            <div class="hidden md:block">
                 <img
                     :src="speakers[active].image"
                     :alt="speakers[active].name"

@@ -7,7 +7,7 @@
         </p>
 
         <p class="mt-1 mb-6 text-lg text-black">
-            <em>as we celebrate </em>Touchstone<em>’s 40th anniversary<br />at our new conference venue in Oak Brook, Illinois.</em>
+            <em>as we celebrate </em>Touchstone<em>’s 40th anniversary at our new conference venue in Oak Brook, Illinois.</em>
         </p>
     </div>
 
@@ -26,7 +26,7 @@
         <thead class="bg-stone-100">
             <tr>
                 <th class="px-6 py-4">Ticket Type</th>
-                <th class="px-6 py-4">Includes</th>
+                <th class="px-6 py-4 hidden md:table-cell">Includes</th>
                 <th class="px-6 py-4">Price</th>
             </tr>
         </thead>
@@ -36,7 +36,7 @@
                 <td class="px-6 py-4 font-medium">
                     Standard Registration
                 </td>
-                <td class="px-6 py-4">
+                <td class="px-6 py-4 hidden md:table-cell">
                     3 Days • 8 Lectures • 2 Panels <br />
                     Friday lunch • Coffee breaks • Evening receptions 
                 </td>
@@ -49,7 +49,7 @@
                 <td class="px-6 py-4 font-medium">
                     Student Registration
                 </td>
-                <td class="px-6 py-4">
+                <td class="px-6 py-4 hidden md:table-cell">
                     Same conference access as Standard Registration
                 </td>
                 <td class="px-6 py-4 text-right">
@@ -67,7 +67,7 @@
                 <td class="px-6 py-4 font-medium">
                     Reduced-Rate Registration (Waitlist)
                 </td>
-                <td class="px-6 py-4">
+                <td class="px-6 py-4 hidden md:table-cell">
                     Same conference access as Standard Registration.
                 </td>
                 <td class="px-6 py-4 text-right">

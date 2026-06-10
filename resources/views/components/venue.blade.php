@@ -4,7 +4,7 @@
         <div class="grid gap-8 lg:grid-cols-2 lg:items-center">
 
             <!-- Image -->
-            <div>
+            <div class="hidden lg:block">
                 <img
                     src="{{ Vite::asset('resources/images/venue.jpg') }}"
                     alt="DoubleTree by Hilton Oak Brook"

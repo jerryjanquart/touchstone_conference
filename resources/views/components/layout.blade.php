@@ -69,7 +69,7 @@
 
                 <!-- Center Content -->
                 <main class="flex-1 max-w-2xl bg-white">
-                    <div class="mx-auto px-8 lg:px-16 py-8">
+                    <div class="mx-auto px-4 sm:px-8 lg:px-16 py-8">
 
                         {{ $slot }}
 

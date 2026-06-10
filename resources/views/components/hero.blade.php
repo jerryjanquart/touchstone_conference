@@ -1,16 +1,16 @@
 <section id="hero" data-aos="fade" class="pb-2">
 
-    <h1 class="mt-10 text-center text-4xl font-normal leading-tight text-touchstone-red">
+    <h1 class="mt-10 text-center text-2xl md:text-4xl font-normal leading-tight text-touchstone-red">
         The 40th Anniversary 
     </h1>
 
     <div class="flex justify-center mt-4">
         <x-touchstone-logo
-            class="h-16 w-auto text-touchstone-red"
+            class="h-8 md:h-16 w-auto text-touchstone-red"
         />
     </div>
 
-    <h1 class="mt-4 mb-6 text-center text-4xl font-normal leading-tight text-touchstone-red">
+    <h1 class="mt-4 mb-6 text-center text-2xl lg:text-4xl font-normal leading-tight text-touchstone-red">
         Conference
     </h1>
 
