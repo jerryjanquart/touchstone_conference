@@ -1,25 +1,27 @@
 <section id="hero" data-aos="fade" class="pb-2">
 
-    <div class="border-y border-stone-300 bg-stone-100 px-6 py-4 text-center">
-        <p class="text-sm font-semibold uppercase tracking-[0.2em] text-[#8b1e1e]">
-            Celebrating 40 Years of Touchstone
-        </p>
-        <p class="mt-1 text-sm text-stone-600">
-            1986–2026
-        </p>
-    </div>
-        
-    <img
-        src="{{ Vite::asset('resources/images/conference-logo.png') }}"
-        alt="The 2026 Touchstone Conference"
-        class="mx-auto w-100 mt-6"
-    >
-
-    <h1 class="mt-8 text-center text-7xl font-normal leading-tight text-touchstone-red">
-        City on a Hill?
+    <h1 class="mt-10 text-center text-4xl font-normal leading-tight text-touchstone-red">
+        The 40th Anniversary 
     </h1>
 
-    <p class="mt-2 text-center text-3xl italic text-black">
+    <div class="flex justify-center mt-4">
+        <x-touchstone-logo
+            class="h-16 w-auto text-touchstone-red"
+        />
+    </div>
+
+    <h1 class="mt-4 mb-6 text-center text-4xl font-normal leading-tight text-touchstone-red">
+        Conference
+    </h1>
+
+
+    <div class="h-1 bg-slate-200 w-80 mx-auto mb-10 mt-10"></div>
+
+
+    <p class="mt-2 mb-2 text-center text-4xl text-black">
+        City on a Hill?
+    </p>
+    <p class="text-center text-xl italic text-black">
         Christians in America at 250
     </p>
 
