@@ -87,8 +87,9 @@ window.speakerCarousel = function () {
 Alpine.start();
 
 AOS.init({
-    duration: 800,
+    duration: 1500,
     easing: 'ease-out-cubic',
     once: true,
     offset: 60,
 });
+
