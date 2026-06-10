@@ -62,7 +62,7 @@
                     - Sides: Green salad and dessert<br />
 
                 <p class="mt-3 text-md leading-6 text-stone-700 pl-8">
-                    Attendees are responsible for their own dinner on Friday night, except for those invited to the Guild dinner. Multiple restaurants are within walking distance of the hotel at the nearby Oakbrook Center. View the mall directory <a href="https://www.oakbrookcenter.com/en/directory/"><span class="text-touchstone-red"><u>here</u></span>.</a><p>
+                    Attendees are responsible for their own dinner on Friday evening, except for those invited to the Guild Dinner. The hotel restaurant and bar serve food beginning at 4:30 p.m., and several restaurants are within walking distance at the nearby Oakbrook Center. View the mall directory <a href="https://www.oakbrookcenter.com/en/directory/"><span class="text-touchstone-red"><u>here</u></span>.</a><p>
 
                 </p>
             </div>
