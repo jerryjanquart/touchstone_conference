@@ -9,3 +9,4 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::view('/sponsorship', 'sponsorship');
