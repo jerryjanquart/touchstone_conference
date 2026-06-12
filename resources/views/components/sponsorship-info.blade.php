@@ -5,14 +5,16 @@
             Become a Sponsor
         </h2>
 
-        <div class="text-left text-lg leading-8 text-stone-700">
+        <div class="text-left text-lg leading-8 text-stone-700 mb-10">
             <p>
-                Make your presence known at the 40th Anniversary <em>Touchstone</em> conference by becoming a sponsor. Attendance has historically ranged from 300–400 participants. Explore the sponsorship opportunities below and contact James Kushiner at jmk@fsj.org to reserve your sponsorship.
+                Make your presence known at the 40th Anniversary <em>Touchstone</em> conference by becoming a sponsor. Attendance has historically ranged from 300–400 participants. Explore the sponsorship opportunities below and purchase your sponsorship online. Questions or need an invoice? Contact James Kushiner at jmk@fsj.org. We will follow up promptly with additional details and next steps.
             </p>
         </div>
 
+        <x-divider />
+
         <h3 class="mb-6 text-center text-3xl text-black mt-10">
-            Conference Sponsorships
+            Sponsorship Opportunities
         </h3>
 
         <section class="rounded-lg bg-stone-100 p-8 mt-10">
@@ -23,7 +25,7 @@
 
             <p class="mt-2 text-lg font-semibold">
                 $10,000
-            </p>
+            </p>        
 
             <ul class="mt-6 space-y-3 text-stone-700">
                 <li>✓ Four conference registrations</li>
@@ -35,6 +37,10 @@
                 <li>✓ Recognition at the VIP Friday Dinner</li>
                 <li>✓ Friday dinner with a speaker</li>
             </ul>
+
+            <x-become-a-sponsor href="/">
+                Become a Presenting Sponsor
+            </x-become-a-sponsor>
 
         </section>
 
@@ -61,6 +67,10 @@
                 
             </ul>
 
+            <x-become-a-sponsor href="/">
+                Become a Patron
+            </x-become-a-sponsor>
+
         </section>
 
 
@@ -86,8 +96,11 @@
                 <li>✓ Name on signage at the break venue tables</li>
                 <li>✓ Sponsorship noted in conference program schedule</li>
 
-                
             </ul>
+
+            <x-become-a-sponsor href="/">
+                Host the Lunch on Friday
+            </x-become-a-sponsor>
 
         </section>
 
@@ -108,11 +121,12 @@
                 <li>✓ Three conference registrations</li>
                 <li>✓ Recognition at Guild Dinner</li>
                 <li>✓ Dinner with a speaker & senior editor</li>
-                <li>✓ Sponsorship noted in conference program schedule</li>
-
-
-                
+                <li>✓ Sponsorship noted in conference program schedule</li>                
             </ul>
+
+            <x-become-a-sponsor href="/">
+                Host the Friday Guild Dinner
+            </x-become-a-sponsor>
 
         </section>
 
@@ -135,8 +149,11 @@
                 <li>✓ Name recognition on screen during breaks</li>
                 <li>✓ Name on signage at the break venue tables</li>
                 <li>✓ Sponsorship noted in conference program schedule</li>
-                
             </ul>
+
+            <x-become-a-sponsor href="/">
+                Host a Coffee Break
+            </x-become-a-sponsor>
 
         </section>
 
@@ -166,6 +183,10 @@
 	            <li>✓ Name & Logo & website listed on screen during the conference</li>
                 
             </ul>
+
+            <x-become-a-sponsor href="/">
+                Place an Ad in Our Program
+            </x-become-a-sponsor>
 
         </section>
 

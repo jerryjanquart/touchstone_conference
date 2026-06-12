@@ -18,6 +18,6 @@
 
     <x-ticket-table />
 
-    <!--<x-sponsors-and-exhibitors />-->
+    <x-sponsors-and-exhibitors />
 
 </x-layout>

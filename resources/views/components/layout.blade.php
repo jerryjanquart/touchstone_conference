@@ -75,9 +75,9 @@
 
                         <footer class="pb-16 text-center">
 
-                            <p class="text-2xl">
+                            <a href="/"><p class="text-2xl">
                                 The 2026 <em>Touchstone</em> Conference
-                            </p>
+                            </p></a>
 
                             <p class="mt-2 italic text-black">
                                 City on a Hill? Christians in America at 250
