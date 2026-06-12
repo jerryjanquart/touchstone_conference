@@ -1,4 +1,4 @@
-<x-layout title="Touchstone Conference 2026">
+<x-layout>
 
     <x-nav />
 
