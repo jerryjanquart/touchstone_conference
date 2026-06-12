@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Touchstone Conference 2026 | City on a Hill?</title>
+        <title>{{ '40th Anniversary Touchstone Conference 2026 | City on a Hill? | '. $title ?? '40th Anniversary Touchstone Conference 2026 | City on a Hill?' }}</title>
 
         <meta
             name="description"

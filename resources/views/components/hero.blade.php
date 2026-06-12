@@ -63,7 +63,7 @@
 
     <div class="mt-12 text-center">
         <p class="text-2xl text-touchstone-red">
-            Join us September 24–26
+            Join us September 24–26, 2026
         </p>
 
         <p class="mt-1 mb-6 text-lg text-black">

@@ -7,7 +7,11 @@
 
         <div class="text-left text-lg leading-8 text-stone-700 mb-10">
             <p>
-                Make your presence known at the 40th Anniversary <em>Touchstone</em> conference by becoming a sponsor. Attendance has historically ranged from 300–400 participants. Explore the sponsorship opportunities below and purchase your sponsorship online. Questions or need an invoice? Contact James Kushiner at jmk@fsj.org. We will follow up promptly with additional details and next steps.
+                Make your presence known at the 40th Anniversary <em>Touchstone</em> conference by becoming a sponsor. Attendance has historically ranged from 300–400 participants. Explore the sponsorship opportunities below and purchase your sponsorship online. 
+            </p>
+
+            <p class="mt-4">
+                Questions or need an invoice? Contact James Kushiner at jmk@fsj.org. We will follow up promptly with additional details and next steps.
             </p>
         </div>
 
@@ -38,7 +42,7 @@
                 <li>✓ Friday dinner with a speaker</li>
             </ul>
 
-            <x-become-a-sponsor href="/">
+            <x-become-a-sponsor href="https://fsjstore.com/products/presenting-sponsor">
                 Become a Presenting Sponsor
             </x-become-a-sponsor>
 
@@ -47,10 +51,10 @@
 
 
 
-        <section class="rounded-lg bg-stone-100 p-8 mt-10">
+        <section class="rounded-lg bg-stone-100 p-8 mt-10 mb-10">
      
             <h2 class="text-2xl text-touchstone-red">
-                Patrons
+                Patron
             </h2>
 
             <p class="mt-2 text-lg font-semibold">
@@ -67,12 +71,14 @@
                 
             </ul>
 
-            <x-become-a-sponsor href="/">
+            <x-become-a-sponsor href="https://fsjstore.com/products/patron">
                 Become a Patron
             </x-become-a-sponsor>
 
         </section>
 
+
+        <x-divider />
 
 
         <h3 class="mb-6 text-center text-3xl text-black mt-10">
@@ -98,7 +104,7 @@
 
             </ul>
 
-            <x-become-a-sponsor href="/">
+            <x-become-a-sponsor href="https://fsjstore.com/products/friday-lunch-host">
                 Host the Lunch on Friday
             </x-become-a-sponsor>
 
@@ -124,7 +130,7 @@
                 <li>✓ Sponsorship noted in conference program schedule</li>                
             </ul>
 
-            <x-become-a-sponsor href="/">
+            <x-become-a-sponsor href="https://fsjstore.com/products/friday-friday-guild-dinner-host">
                 Host the Friday Guild Dinner
             </x-become-a-sponsor>
 
@@ -133,7 +139,7 @@
 
 
 
-        <section class="rounded-lg bg-stone-100 p-8 mt-10">
+        <section class="rounded-lg bg-stone-100 p-8 mt-10 mb-10">
      
             <h2 class="text-2xl text-touchstone-red">
                 Coffee Break Sponsor (2)
@@ -151,7 +157,7 @@
                 <li>✓ Sponsorship noted in conference program schedule</li>
             </ul>
 
-            <x-become-a-sponsor href="/">
+            <x-become-a-sponsor href="https://fsjstore.com/products/coffee-break-sponsor">
                 Host a Coffee Break
             </x-become-a-sponsor>
 
@@ -159,7 +165,7 @@
 
 
 
-
+        <x-divider />
 
 
 
@@ -184,7 +190,7 @@
                 
             </ul>
 
-            <x-become-a-sponsor href="/">
+            <x-become-a-sponsor href="https://fsjstore.com/products/40th-anniversary-page-sponsor">
                 Place an Ad in Our Program
             </x-become-a-sponsor>
 
