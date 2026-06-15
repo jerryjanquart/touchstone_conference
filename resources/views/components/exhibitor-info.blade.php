@@ -35,12 +35,12 @@
                 
                 <li>✓ Two conference registrations</li>
                 <li>✓ One vendor table</li>
-                <li>✓ Friday Guild dinner</li>
+                <li>✓ Friday Guild Dinner</li>
                 <li>✓ Name/logo included on 1 conference promotional e-blast (14,000+ names)</li>
-                <li>✓ Quarter-page ad in the January-February issue of Touchstone (circulation: 11,000+)</li>
-                <li>✓ Name/Log on our conference website</li>
+                <li>✓ Quarter-page ad in the Jan/Feb 2027 issue of <em>Touchstone </em>(circulation: 11,000+)</li>
+                <li>✓ Name/logo on our conference website</li>
                 <li>✓ Name/logo on screen during conference</li>
-                <li>✓ Name/logo in conference program.</li>
+                <li>✓ Name/logo in conference program</li>
                 <li>✓ Insert flyer/card in handouts to all attendees</li>
 
             </ul>

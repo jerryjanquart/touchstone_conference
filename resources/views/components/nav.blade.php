@@ -13,9 +13,9 @@
             FAQ
         </a>
 
-        <!--<a href="/#sponsors" class="text-stone-500 hover:text-black transition-colors duration-300 ">
+        <a href="/#sponsors" class="text-stone-500 hover:text-black transition-colors duration-300 ">
             Sponsors
-        </a>-->
+        </a>
 
         <a href="/#registration" class="text-stone-500 hover:text-black transition-colors duration-300 ">
             Registration
