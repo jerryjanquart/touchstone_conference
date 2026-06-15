@@ -30,12 +30,12 @@
         <meta property="og:url" content="https://thetouchstoneconference.com">
         <meta property="og:title" content="Touchstone Conference 2026">
         <meta property="og:description" content="Join us September 24–26, 2026, as Touchstone celebrates its 40th anniversary and explores the theme 'City on a Hill? Christians in America at 250.'">
-        <meta property="og:image" content="https://thetouchstoneconference.com/assets/images/og-image-40.jpg">
+        <meta property="og:image" content="https://thetouchstoneconference.com/assets/images/og-img-40.jpg">
 
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="Touchstone Conference 2026">
         <meta name="twitter:description" content="Join us September 24–26, 2026, as Touchstone celebrates its 40th anniversary and explores the theme 'City on a Hill? Christians in America at 250.'">
-        <meta name="twitter:image" content="https://thetouchstoneconference.com/assets/images/og-image-40.jpg">
+        <meta name="twitter:image" content="https://thetouchstoneconference.com/assets/images/og-img-40.jpg">
 
         <meta name="author" content="The Fellowship of St. James">
         <meta name="theme-color" content="#7A1F1F">
