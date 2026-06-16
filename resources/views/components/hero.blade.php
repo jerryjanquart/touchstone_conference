@@ -61,6 +61,12 @@
 
     </div>
 
+    <div class="mt-4 grid grid-cols-1 gap-y-4 px-2">
+         <x-speaker-link index="8">
+            C. R. Wiley
+        </x-speaker-link>
+    </div>
+
     <div class="mt-12 text-center">
         <p class="text-2xl text-touchstone-red">
             Join us September 24–26, 2026

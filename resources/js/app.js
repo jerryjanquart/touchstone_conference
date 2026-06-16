@@ -50,7 +50,7 @@ window.speakerCarousel = function () {
                 name: 'Rod Dreher',
                 title: 'Author',
                 image: 'assets/images/speakers/dreher.jpg',
-                bio: 'is an American journalist, author, and commentator known for his writings on the intersection of religion, culture, and politics. He is a senior editor at <em>The American Conservative </em>and currently serves as the Director of Network Projects for the Danube Institute in Budapest, Hungary.'
+                bio: 'is an American journalist, author, and commentator known for his writings on the intersection of religion, culture, and politics. He is a senior editor at <em>The American Conservative </em>and currently serves as the Director of Network Projects for the Danube Institute in Budapest, Hungary. He is a contributing editor to <em>Touchstone</em>.'
             },
 
             {
@@ -71,7 +71,7 @@ window.speakerCarousel = function () {
                 name: 'Carl R. Trueman',
                 title: 'Author & Professor',
                 image: 'assets/images/speakers/trueman.jpg',
-                bio: 'is professor of biblical and religious studies at Grove City College. He is a an esteemed church historian and a fellow at the Ethics and Public Policy Center. Trueman has authored or edited more than a dozen books, including <em>Strange New World; The Rise and Triumph of the Modern Self.'
+                bio: 'is professor of biblical and religious studies at Grove City College. He is a an esteemed church historian and a fellow at the Ethics and Public Policy Center. Trueman has authored or edited more than a dozen books, including <em>Strange New World; The Rise and Triumph of the Modern Self</em>. He is a contributing editor to <em>Touchstone</em>.'
             },
 
             {
@@ -79,6 +79,12 @@ window.speakerCarousel = function () {
                 title: 'Archpriest',
                 image: 'assets/images/speakers/warren.jpg',
                 bio: 'is an Orthodox priest serving at St. Seraphim Orthodox Cathedral in Dallas. He earned a Master of Theology degree from St. Tikhon\'s Orthodox Theological Seminary and has served in parish ministry for a number of years. He is a frequent preacher and teacher within the Orthodox tradition.'
+            },
+            {
+                name: 'C. R. Wiley',
+                title: 'Pastor & Author',
+                image: 'assets/images/speakers/wiley.jpg',
+                bio: 'is a pastor living in the Pacific Northwest. He is the author of <em>The Household and the War for the Cosmos</em> and <em>In the House of Tom Bombadil</em>. He is also a co-host of <em>The Theology Pugcast</em>. He is a senior editor of <em>Touchstone</em>.'
             }
         ],
     };
