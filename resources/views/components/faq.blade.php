@@ -67,6 +67,16 @@
                 </p>
             </div>
 
+            <div>
+                <h3 class="text-md font-bold">
+                    What is your cancellation / refund policy?
+                </h3>
+                <p class="mt-3 text-md leading-6 text-stone-700 pl-8">
+                    Registration cancellations received on or before August 31, 2026, will receive a full refund. Unfortunately, refunds cannot be issued after August 31, as conference expenses and meal counts must be finalized in advance. Registrations may be transferred to another attendee by contacting office@fsj.org.<p>
+
+                </p>
+            </div>
+
         </div>
 
     </div>
