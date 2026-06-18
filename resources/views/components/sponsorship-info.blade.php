@@ -37,9 +37,9 @@
                 <li>✓ Name recognition on the website, conference screens, and in the conference program</li>
                 <li>✓ Name/logo included in one conference promotional e-blast (14,000+ recipients)</li>
                 <li>✓ Half-page advertisement in the Jan/Feb 2027 issue of <em>Touchstone</em> (circulation 11,000+)</li>
-                <li>✓ Friday lunch with speakers</li>
+                <li>✓ Friday breakfast with speakers</li>
                 <li>✓ Recognition at the VIP Friday dinner</li>
-                <li>✓ Friday dinner with a speaker</li>
+                <li>✓ Friday dinner with a speaker and senior editor</li>
             </ul>
 
             <x-become-a-sponsor href="https://fsjstore.com/products/presenting-sponsor">
