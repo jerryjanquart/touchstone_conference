@@ -84,7 +84,7 @@ window.speakerCarousel = function () {
                 name: 'C. R. Wiley',
                 title: 'Pastor & Author',
                 image: 'assets/images/speakers/wiley.jpg',
-                bio: 'is a pastor living in the Pacific Northwest. He is the author of <em>The Household and the War for the Cosmos</em> and <em>In the House of Tom Bombadil</em>. He is also a co-host of <em>The Theology Pugcast</em>. He is a senior editor of <em>Touchstone</em>.'
+                bio: 'is a senior editor at <em>Touchstone</em>, a co-host of <em>The Theology Pugcast </em>(a podcast with listeners in 60 countries), and  a Presbyterian pastor serving a church in the Pacific Northwest. His most recent book is, <em>In the House of Tom Bombadil </em>(2021).'
             }
         ],
     };
