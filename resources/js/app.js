@@ -84,7 +84,7 @@ window.speakerCarousel = function () {
                 name: 'C. R. Wiley',
                 title: 'Pastor & Author',
                 image: 'assets/images/speakers/wiley.jpg',
-                bio: 'is a senior editor at <em>Touchstone</em>, a co-host of <em>The Theology Pugcast </em>(a podcast with listeners in 60 countries), and  a Presbyterian pastor serving a church in the Pacific Northwest. His most recent book is, <em>In the House of Tom Bombadil </em>(2021).'
+                bio: 'is a senior editor at <em>Touchstone</em>, a co-host of <em>The Theology Pugcast </em>(a podcast with listeners in 60 countries), and  a Presbyterian pastor serving a church in the Pacific Northwest. His most recent book is <em>Manmade: St. Antony’s Guide to Surviving the AI Apocalypse </em>(2026).'
             }
         ],
     };
