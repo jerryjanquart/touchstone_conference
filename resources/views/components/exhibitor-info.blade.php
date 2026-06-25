@@ -69,7 +69,7 @@
                 <li>✓ One exhibitor table</li>
                 <hr class="mt-2" />
                 <p>
-                    After reserving your exhibit space, we will follow up with information about available exhibitor add-ons, including extra tickets, additional tables, electrical service, and program advertising opportunities.
+                    Need electrical service, an insert, or an extra table? Browse exhibitor add-ons <a href="https://fsjstore.com/collections/conference-exhibitor-add-ons"><u>here</u></a>. Need to register additional attendees? Register them <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"><u>here</u></a>.
                 </p>
 
                 
@@ -102,10 +102,8 @@
                 <li>✓ One exhibitor table</li>
                 <hr class="mt-2" />
                 <p>
-                    After reserving your exhibit space, we will follow up with information about available exhibitor add-ons, including extra tickets, additional tables, electrical service, and program advertising opportunities.
+                    Need electrical service, an insert, or an extra table? Browse exhibitor add-ons <a href="https://fsjstore.com/collections/conference-exhibitor-add-ons"><u>here</u></a>. Need to register additional attendees? Register them <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"><u>here</u></a>.
                 </p>
-
-                
 
             </ul>
 
