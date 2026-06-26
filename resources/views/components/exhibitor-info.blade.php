@@ -67,18 +67,19 @@
                 
                 <li>✓ One conference registration</li>
                 <li>✓ One exhibitor table</li>
-                <hr class="mt-2" />
-                <p>
-                    Need electrical service, an insert, or an extra table? Browse exhibitor add-ons <a href="https://fsjstore.com/collections/conference-exhibitor-add-ons"><u>here</u></a>. Need to register additional attendees? Register them <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"><u>here</u></a>.
-                </p>
 
-                
+                <x-become-a-sponsor href="https://fsjstore.com/products/corporate-exhibitor">
+                    Become a Corporate Exhibitor
+                </x-become-a-sponsor>
+
+                <hr class="mt-8" />
+                <p>
+                    MORE OPTIONS: Need electrical service, an insert, or an extra table? Browse exhibitor add-ons <a href="https://fsjstore.com/collections/conference-exhibitor-add-ons"><u>here</u></a>. Need to register additional attendees? Register them <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"><u>here</u></a>.
+                </p>
 
             </ul>
 
-            <x-become-a-sponsor href="https://fsjstore.com/products/corporate-exhibitor">
-                Become a Corporate Exhibitor
-            </x-become-a-sponsor>
+            
 
         </section>
 
@@ -100,16 +101,19 @@
                 
                 <li>✓ One conference registration</li>
                 <li>✓ One exhibitor table</li>
-                <hr class="mt-2" />
+
+                <x-become-a-sponsor href="https://fsjstore.com/products/ministry-non-profit-exhibitor">
+                    Become a Ministry / Non-Profit Exhibitor
+                </x-become-a-sponsor>
+
+                <hr class="mt-8" />
                 <p>
-                    Need electrical service, an insert, or an extra table? Browse exhibitor add-ons <a href="https://fsjstore.com/collections/conference-exhibitor-add-ons"><u>here</u></a>. Need to register additional attendees? Register them <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"><u>here</u></a>.
+                    MORE OPTIONS: Need electrical service, an insert, or an extra table? Browse exhibitor add-ons <a href="https://fsjstore.com/collections/conference-exhibitor-add-ons"><u>here</u></a>. Need to register additional attendees? Register them <a href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"><u>here</u></a>.
                 </p>
 
             </ul>
 
-            <x-become-a-sponsor href="https://fsjstore.com/products/ministry-non-profit-exhibitor">
-                Become a Ministry / Non-Profit Exhibitor
-            </x-become-a-sponsor>
+            
 
         </section>
 
