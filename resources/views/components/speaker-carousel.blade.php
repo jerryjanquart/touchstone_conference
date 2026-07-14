@@ -5,7 +5,7 @@
         Featured Speakers
     </h3>
 
-    <p class="text-lg leading-8 text-stone-700 mx-auto mb-8 mt-2">In celebration of <em>Touchstone</em>’s 40th anniversary, <br />we are pleased to welcome...</p>
+    <p class="text-lg leading-8 text-stone-700 mx-auto mb-8 mt-2">In celebration of <em>Touchstone</em>’s 40th anniversary, we are pleased to welcome...</p>
 </div>
 
     <div class="overflow-hidden bg-white">

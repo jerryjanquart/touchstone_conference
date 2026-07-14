@@ -73,7 +73,7 @@
         </p>
 
         <p class="mt-1 mb-6 text-lg text-black">
-            <em>as we celebrate </em>Touchstone<em>’s 40th anniversary<br />at our new conference venue in Oak Brook, Illinois.</em>
+            <em>as we celebrate </em>Touchstone<em>’s 40th anniversary at our new conference venue in Oak Brook, Illinois.</em>
         </p>
     </div>
 
