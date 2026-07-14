@@ -27,7 +27,7 @@
         </x-photo-horizontal>
 
         <x-photo-horizontal number="5">
-            <em>Touchstone </em>executive editor <strong>J. Douglas Johnson</strong> introduces the conference theme and first speakers&#8212;Douglas Farrow and Hans Boersma.
+            <em>Touchstone </em>executive editor <strong>J. Douglas Johnson</strong> introduces the conference theme and first speakers&#8212;Douglas Farrow and Fr. Hans Boersma.
         </x-photo-horizontal>
 
          <x-photo-vertical number="6">
@@ -51,7 +51,7 @@
         </x-photo-horizontal>
 
         <x-photo-vertical number="10">
-            <strong>Richard Rholin</strong> presents “Re-Enchanting Time Through Medieval Universal History.”
+            <strong>Richard Rohlin</strong> presents “Re-enchanting Time Through Medieval Universal History.”
         </x-photo-vertical>
 
         <x-photo-horizontal number="11">
@@ -72,7 +72,7 @@
         </x-photo-horizontal>
         
         <x-photo-horizontal number="14">
-            <strong>C. R. Wiley</strong> and <strong>Fr. Hans Boersma</strong> during the afternoon panel discussion.
+            <strong>Fr. Hans Boersma</strong> and <strong>C. R. Wiley</strong> during the afternoon panel discussion.
         </x-photo-horizontal>
 
         <x-photo-horizontal number="15">
@@ -80,7 +80,7 @@
         </x-photo-horizontal>
 
         <x-photo-vertical number="16">
-            <em>Touchstone</em> senior editor <strong>R. V. Young</strong> presents “Paradise Lost and the Fortunate Fall.”
+            <em>Touchstone</em> senior editor <strong>R. V. Young</strong> presents “<em>Paradise Lost </em>and the Fortunate Fall.”
         </x-photo-vertical>
 
         <h2 class="text-2xl text-touchstone-red mb-6">
