@@ -101,7 +101,7 @@
 
 
         <h2 class="mb-6 text-center text-3xl text-black">
-            Join us in 2026!
+            Join us in 2026
         </h2>
 
 
@@ -110,7 +110,7 @@
             href="/#registration"
             class="inline-block rounded-md bg-touchstone-red px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
         >
-            Register Today!
+            Register Today
         </a>
     </div>
 
