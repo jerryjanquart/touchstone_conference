@@ -12,3 +12,5 @@ Route::get('/', function () {
 Route::view('/sponsorship', 'sponsorship');
 
 Route::view('/exhibitors', 'exhibitors');
+
+Route::view('/photos', 'photos');

@@ -12,6 +12,8 @@
     
     </div>
 
+    <x-photos />
+
     <x-venue /> 
 
     <x-faq />
