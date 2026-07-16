@@ -78,6 +78,35 @@
         </section>
 
 
+
+
+        <section class="rounded-lg bg-stone-100 p-8 mt-10 mb-10">
+     
+            <h2 class="text-2xl text-touchstone-red">
+                Sponsor
+            </h2>
+
+            <p class="mt-2 text-lg font-semibold">
+                $1,200
+            </p>
+
+            <ul class="mt-6 space-y-3 text-stone-700">
+                <li>✓ Name/logo included on 1 conference promotional e-blast (14,000+  names)</li>
+                <li>✓ Name recognition on website, conference screen, and conference program.</li>
+                <li>✓ Insert flyer/card in handouts to all attendees</li>
+                <li>✓ Half-page ad in the Jan/Feb issue of <em>Touchstone</em> (circulation: 11,000+)</li>
+                
+            </ul>
+
+            <x-become-a-sponsor href="https://fsjstore.com/products/sponsor">
+                Become a Sponsor
+            </x-become-a-sponsor>
+
+        </section>
+
+
+
+
         <x-divider />
 
 
