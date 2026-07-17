@@ -14,6 +14,11 @@ return [
     |
     */
 
+    'donorperfect' => [
+        'registration_url' => env('DP_REGISTRATION_URL'),
+        'postcard_registration_url' => env('DP_POSTCARD_REGISTRATION_URL'),
+    ],
+
     'postmark' => [
         'token' => env('POSTMARK_TOKEN'),
     ],

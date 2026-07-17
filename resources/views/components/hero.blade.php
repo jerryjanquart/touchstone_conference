@@ -1,7 +1,7 @@
 @php
     $registrationUrl = session('utm_source') === 'postcard'
-        ? env('DP_POSTCARD_REGISTRATION_URL')
-        : env('DP_REGISTRATION_URL');
+        ? config('services.donorperfect.postcard_registration_url')
+        : config('services.donorperfect.registration_url');
 @endphp
 
 <section id="hero" data-aos="fade" class="pb-2">
