@@ -1,3 +1,9 @@
+@php
+    $registrationUrl = session('utm_source') === 'postcard'
+        ? env('DP_POSTCARD_REGISTRATION_URL')
+        : env('DP_REGISTRATION_URL');
+@endphp
+
 <section id="registration" class="mb-10 scroll-mt-24" data-aos="fade-up">
 
 
@@ -13,7 +19,7 @@
 
     <div class="text-center mb-12">
         <a
-            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=106"
+            href="{{ $registrationUrl }}"
             class="inline-block rounded-md bg-touchstone-red px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
         >
             Register Now
