@@ -1,7 +1,11 @@
 @php
-    $registrationUrl = session('utm_source') === 'postcard'
-        ? config('services.donorperfect.postcard_registration_url')
-        : config('services.donorperfect.registration_url');
+    if (session('utm_source') === 'postcard') {
+        $registrationUrl = config('services.donorperfect.postcard_registration_url');
+    } elseif (session('utm_source') === 'facebook') {
+        $registrationUrl = config('services.donorperfect.facebook_registration_url');
+    } else {
+        $registrationUrl = config('services.donorperfect.registration_url');
+    }
 @endphp
 
 <section id="registration" class="mb-10 scroll-mt-24" data-aos="fade-up">

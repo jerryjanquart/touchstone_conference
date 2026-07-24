@@ -38,3 +38,10 @@ Route::redirect(
     301
 );
 
+//Facebook redirect
+Route::redirect(
+    '/join',
+    '/?utm_source=facebook&utm_medium=paid-social&utm_campaign=conference2026&utm_content=grid',
+    301
+);
+
