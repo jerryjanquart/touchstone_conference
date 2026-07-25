@@ -3,6 +3,8 @@
         $registrationUrl = config('services.donorperfect.postcard_registration_url');
     } elseif (session('utm_source') === 'facebook') {
         $registrationUrl = config('services.donorperfect.facebook_registration_url');
+    } elseif (session('utm_source') === 'constant-contact') {
+        $registrationUrl = config('services.donorperfect.email_registration_url');
     } else {
         $registrationUrl = config('services.donorperfect.registration_url');
     }
