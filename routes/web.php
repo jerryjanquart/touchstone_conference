@@ -52,3 +52,9 @@ Route::redirect(
     302
 );
 
+//Touchstone Back Page Ad redirect
+Route::redirect(
+    '/magazine',
+    '/?utm_source=touchstone&utm_medium=print&utm_campaign=conference2026&utm_content=sept_oct_back_cover',
+    302
+);
