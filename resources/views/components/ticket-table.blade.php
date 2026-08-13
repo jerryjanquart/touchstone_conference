@@ -5,6 +5,8 @@
         $registrationUrl = config('services.donorperfect.facebook_registration_url');
     } elseif (session('utm_source') === 'constant-contact') {
         $registrationUrl = config('services.donorperfect.email_registration_url');
+    } elseif (session('utm_source') === 'x') {
+        $registrationUrl = config('services.donorperfect.x_registration_url');
     } else {
         $registrationUrl = config('services.donorperfect.registration_url');
     }

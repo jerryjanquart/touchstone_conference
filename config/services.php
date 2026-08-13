@@ -19,6 +19,7 @@ return [
         'postcard_registration_url' => env('DP_POSTCARD_REGISTRATION_URL'),
         'facebook_registration_url' => env('DP_FACEBOOK_REGISTRATION_URL'),
         'email_registration_url' => env('DP_EMAIL_REGISTRATION_URL'),
+        'x_registration_url' => env('DP_X_REGISTRATION_URL'),
     ],
 
     'postmark' => [

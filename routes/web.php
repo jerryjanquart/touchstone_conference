@@ -35,13 +35,20 @@ Route::view('/photos', 'photos');
 Route::redirect(
     '/joinus',
     '/?utm_source=postcard',
-    301
+    302
 );
 
 //Facebook redirect
 Route::redirect(
     '/join',
-    '/?utm_source=facebook&utm_medium=paid-social&utm_campaign=conference2026&utm_content=grid',
-    301
+    '/?utm_source=facebook&utm_medium=paid-social&utm_campaign=conference2026&utm_content=grid_targeted',
+    302
+);
+
+//FacebXook redirect
+Route::redirect(
+    '/x',
+    '/?utm_source=x&utm_medium=paid-social&utm_campaign=conference2026&utm_content=grid',
+    302
 );
 
