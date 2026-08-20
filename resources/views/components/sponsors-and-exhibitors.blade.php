@@ -1,4 +1,4 @@
-<section id="sponsors" class="mb-12 scroll-mt-24" data-aos="fade-up">
+<section class="mb-12 scroll-mt-24" data-aos="fade-up">
     <div class="mx-auto max-w-3xl px-6 mb-12">
         
         <h2 class="mb-6 text-center text-4xl text-touchstone-red">
