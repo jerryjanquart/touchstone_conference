@@ -20,6 +20,8 @@
 
     <x-ticket-table />
 
+    <x-sponsor-logos-section />
+
     <x-sponsors-and-exhibitors />
 
 </x-layout>
