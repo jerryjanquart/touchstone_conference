@@ -58,3 +58,16 @@ Route::redirect(
     '/?utm_source=touchstone&utm_medium=print&utm_campaign=conference2026&utm_content=sept_oct_back_cover',
     302
 );
+
+//Touchstone Reduced Rate redirects
+foreach ([
+    '/reduced'          => 113,
+    '/reduced-thursday' => 114,
+    '/reduced-friday'   => 115,
+    '/reduced-saturday' => 116,
+] as $path => $id) {
+    Route::redirect(
+        $path,
+        "https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id={$id}"
+    );
+}
