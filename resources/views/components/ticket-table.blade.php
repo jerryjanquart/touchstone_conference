@@ -59,7 +59,7 @@
                 </td>
             </tr>
 
-            <tr>
+            <!--<tr>
                 <td class="px-6 py-4 font-medium">
                     Livestream Registration
                 </td>
@@ -76,7 +76,7 @@
                             Livestream $100
                         </a>
                 </td>
-            </tr>
+            </tr>-->
 
             <tr>
                 <td class="px-6 py-4 font-medium">
