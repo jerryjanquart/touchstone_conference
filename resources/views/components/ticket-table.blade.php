@@ -61,6 +61,25 @@
 
             <tr>
                 <td class="px-6 py-4 font-medium">
+                    Livestream Registration
+                </td>
+                <td class="px-6 py-4 hidden md:table-cell">
+                    3 Days • 8 Lectures • 2 Panels <br />
+                    Watch live from this website
+                </td>
+                <td class="px-6 py-4 text-right">
+                    <a
+                            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=117"
+                            target="_blank"
+                            class="inline-flex items-center rounded-md border border-gray-300 px-2 py-1 transition-all duration-300 hover:bg-gray-100 text-sm"
+                        >
+                            Livestream $100
+                        </a>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="px-6 py-4 font-medium">
                     Student Registration
                 </td>
                 <td class="px-6 py-4 hidden md:table-cell">
