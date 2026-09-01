@@ -27,6 +27,10 @@ Route::get('/session-test', function () {
 
 Route::view('/sponsorship', 'sponsorship');
 
+Route::view('/watch', 'watch');
+
+Route::view('/schedule', 'schedule');
+
 Route::view('/exhibitors', 'exhibitors');
 
 Route::view('/photos', 'photos');

@@ -81,7 +81,18 @@
         </x-speaker-link>
     </div>
 
-    <div class="mt-12 text-center">
+    <div class="mt-8 text-center">
+
+        <div class="mb-6 text-center">
+            <a
+                href="/schedule"
+                class="inline-block text-sm uppercase tracking-widest text-stone-700
+                    transition hover:border-red-900 hover:text-red-900"
+            >
+                [ View the Schedule ]
+            </a>
+        </div>
+        
         <p class="text-2xl text-touchstone-red">
             Join us September 24–26, 2026
         </p>
