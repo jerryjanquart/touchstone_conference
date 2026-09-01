@@ -42,6 +42,13 @@ Route::redirect(
     302
 );
 
+//Student postcard redirect
+Route::redirect(
+    '/student',
+    '/?utm_source=moody&utm_medium=print&utm_campaign=conference_2026&utm_content=student_flyer',
+    302
+);
+
 //Facebook redirect
 Route::redirect(
     '/join',
