@@ -80,12 +80,12 @@
                     <time class="font-semibold text-red-900">9:00 a.m.</time>
                     <div>
                         <p class="font-semibold text-stone-900">Carl Trueman</p>
-                        <!--<h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            The Two Self-Denials
+                        <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
+                            Land of Lost Content
                         </h3>
                         <p class="italic text-stone-600">
-                            Why the Christian Life Threatens Modern “Progress”
-                        </p>-->
+                            Reflections on England and a Cultured Loss of Faith
+                        </p>
                     </div>
                 </div>
 
