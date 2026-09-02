@@ -165,15 +165,15 @@
                     <time class="font-semibold text-red-900">7:30 p.m.</time>
                     <div>
                         <p class="font-semibold text-stone-900">Carrie Gress</p>
-                        <!--<h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            Restoring the American Home
+                        <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
+                            American Myth & Misery
                         </h3>
                         <p class="italic text-stone-600">
-                            Family, Culture, and the Renewal of the Republic
+                            The True Story of Feminism’s “Liberated” Women
                         </p>
                         <p class="mt-2 text-sm font-semibold uppercase tracking-wide text-red-900">
                             Followed by Q&amp;A
-                        </p>-->
+                        </p>
                     </div>
                 </div>
 
