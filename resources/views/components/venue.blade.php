@@ -26,13 +26,12 @@
                 </p>
 
                 <p class="mt-4 text-black leading-6">
-                    Conference attendees may reserve rooms at a special
-                    discounted rate through our conference block.
+                    Reserve a room at the DoubleTree by Hilton.
                 </p>
 
                 <div class="mt-8 flex flex-wrap gap-4">
                     <a
-                        href="https://www.hilton.com/en/attend-my-event/touchstoneconferenceroomblock/"
+                        href="https://www.hilton.com/en/hotels/chioadt-doubletree-chicago-oak-brook/"
                         class="inline-flex items-center rounded-md bg-touchstone-red px-2 py-1 text-white hover:bg-[#651818] text-sm transition-all duration-300"
                     >
                         Book Your Room Online

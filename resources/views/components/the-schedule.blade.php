@@ -219,9 +219,9 @@
                         <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
                             Weimar America
                         </h3>
-                        <!--<p class="italic text-stone-600">
-                            Notes Towards Overcoming Our Spiritual Blindness
-                        </p>-->
+                        <p class="italic text-stone-600">
+                            Lessons from History for a Post-Christian, Postmodern Nation
+                        </p>
                     </div>
                 </div>
 
