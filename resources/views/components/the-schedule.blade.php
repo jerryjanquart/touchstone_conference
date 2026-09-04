@@ -202,8 +202,11 @@
                     <div>
                         <p class="font-semibold text-stone-900">Adam MacLeod</p>
                         <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            The Common Law &amp; the Light of Truth
+                            American Renovation
                         </h3>
+                        <p class="italic text-stone-600">
+                            The Common Law & the Light of Truth
+                        </p>
                     </div>
                 </div>
 
