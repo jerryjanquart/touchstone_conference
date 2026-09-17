@@ -47,12 +47,12 @@
                     <time class="font-semibold text-red-900">8:00 p.m.</time>
                     <div>
                         <p class="font-semibold text-stone-900">Fr. Theophan Warren</p>
-                        <!--<h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            The Truth Is Out There
+                        <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
+                            Testing the Spirits
                         </h3>
                         <p class="italic text-stone-600">
-                            UFOs, “Foreign Intelligences,” and the Demonic
-                        </p>-->
+                            Christian Discernment in an Age of Lawlessness
+                        </p>
                     </div>
                 </div>
 
@@ -98,25 +98,13 @@
                     <time class="font-semibold text-red-900">10:30 a.m.</time>
                     <div>
                         <p class="font-semibold text-stone-900">Patrick Deneen</p>
-                        <!--<h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            America After Liberalism
+                        <p class="font-semibold text-stone-900">Patrick Deneen</p>
+                        <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
+                            The Future of the American Past
                         </h3>
                         <p class="italic text-stone-600">
-                            Recovering Community, Tradition, and the Common Good
-                        </p>-->
-                    </div>
-                </div>
-
-                <div class="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
-                    <time class="font-semibold text-red-900">11:00 a.m.</time>
-                    <div>
-                        <p class="font-semibold text-stone-900">Bradley J. Birzer</p>
-                        <!--<h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            American Founding
-                        </h3>
-                        <p class="italic text-stone-600">
-                            Liberty, Order, and the Inheritance of the Republic
-                        </p>-->
+                            An exchange hosted by C. R. Wiley
+                        </p>
                     </div>
                 </div>
 
