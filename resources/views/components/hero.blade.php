@@ -102,14 +102,21 @@
         </p>
     </div>
 
-    <div class="text-center mb-12">
-        <a
-            href="{{ $registrationUrl }}"
-            class="inline-block rounded-md bg-[#7A1F1F] px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
-        >
-            Register Now
-        </a>
-    </div>
+    <div class="mb-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
+    <a
+        href="{{ $registrationUrl }}"
+        class="inline-block rounded-md bg-[#7A1F1F] px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
+    >
+        Reserve Your Spot
+    </a>
+
+    <a
+        href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=117"
+        class="inline-block rounded-md bg-[#7A1F1F] px-8 py-3 text-lg text-white transition-all duration-300 hover:bg-[#651818]"
+    >
+        Watch Live
+    </a>
+</div>
 
     <x-divider />
 </section>
