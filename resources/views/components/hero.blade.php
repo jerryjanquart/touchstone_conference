@@ -91,6 +91,14 @@
             >
                 [ View the Schedule ]
             </a>
+
+            <a
+                href="/assets/pdfs/program.pdf"
+                class="inline-block text-sm uppercase tracking-widest text-stone-700
+                    transition hover:border-red-900 hover:text-red-900"
+            >
+                [ Download pdf ]
+            </a>
         </div>
         
         <p class="text-2xl text-touchstone-red">
