@@ -2,7 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Middleware\MustBeLoggedIn;
+use App\Http\Middleware\EnsureLivestreamAccess;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\LivestreamLoginController;
 use App\Http\Controllers\LivestreamController;
 use Illuminate\Http\Request;
 
@@ -18,16 +20,26 @@ Route::get('/', function (Request $request) {
     return view('home');
 });
 
-//debug---delete when done
+/*debug---delete when done
 Route::get('/session-test', function () {
     return response()->json(session()->all());
-});
+});*/
 
 
 
 Route::view('/sponsorship', 'sponsorship');
 
-Route::view('/watch', 'watch');
+Route::get('/login', [LivestreamLoginController::class, 'show'])
+    ->name('livestream.login');
+Route::post('/login', [LivestreamLoginController::class, 'authenticate'])
+    ->middleware('throttle:10,1')
+    ->name('login.authenticate');
+Route::post('/logout', [LivestreamLoginController::class, 'logout'])
+    ->name('logout');
+
+Route::get('/watch', [LivestreamController::class, 'show'])
+    ->middleware(EnsureLivestreamAccess::class)
+    ->name('livestream.watch');
 
 Route::view('/schedule', 'schedule');
 

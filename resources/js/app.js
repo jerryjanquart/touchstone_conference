@@ -71,7 +71,7 @@ window.speakerCarousel = function () {
                 name: 'Carl R. Trueman',
                 title: 'Author & Professor',
                 image: 'assets/images/speakers/trueman.jpg',
-                bio: 'is professor of biblical and religious studies at Grove City College. He is a an esteemed church historian and a fellow at the Ethics and Public Policy Center. Trueman has authored or edited more than a dozen books, including <em>Strange New World; The Rise and Triumph of the Modern Self</em>. He is a contributing editor to <em>Touchstone</em>.'
+                bio: 'is professor of biblical and religious studies at Grove City College. He is an esteemed church historian and a fellow at the Ethics and Public Policy Center. Trueman has authored or edited more than a dozen books, including <em>Strange New World; The Rise and Triumph of the Modern Self</em>. He is a contributing editor to <em>Touchstone</em>.'
             },
 
             {
