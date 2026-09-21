@@ -98,6 +98,60 @@
 
             <tr>
                 <td class="px-6 py-4 font-medium">
+                    Thursday Only
+                </td>
+                <td class="px-6 py-4 hidden md:table-cell">
+                    1 Day • 2 Lectures • Reception
+                </td>
+                <td class="px-6 py-4 text-right">
+                     <a
+                            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=118"
+                            target="_blank"
+                            class="inline-flex items-center rounded-md border border-gray-300 px-2 py-1 transition-all duration-300 hover:bg-gray-100 text-sm"
+                        >
+                            Thursday $100
+                        </a>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="px-6 py-4 font-medium">
+                    Friday Only
+                </td>
+                <td class="px-6 py-4 hidden md:table-cell">
+                    1 Day • 4 Lectures • One Panel • Reception
+                </td>
+                <td class="px-6 py-4 text-right">
+                     <a
+                            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=119"
+                            target="_blank"
+                            class="inline-flex items-center rounded-md border border-gray-300 px-2 py-1 transition-all duration-300 hover:bg-gray-100 text-sm"
+                        >
+                            Friday $200
+                        </a>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="px-6 py-4 font-medium">
+                    Saturday Only
+                </td>
+                <td class="px-6 py-4 hidden md:table-cell">
+                    1 Day • 2 Lectures
+                </td>
+                <td class="px-6 py-4 text-right">
+                     <a
+                            href="https://wl.donorperfect.net/weblink/WebLink.aspx?name=E350987&id=120"
+                            target="_blank"
+                            class="inline-flex items-center rounded-md border border-gray-300 px-2 py-1 transition-all duration-300 hover:bg-gray-100 text-sm"
+                        >
+                            Saturday $100
+                        </a>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="px-6 py-4 font-medium">
                     Reduced-Rate Registration (Waitlist)
                 </td>
                 <td class="px-6 py-4 hidden md:table-cell">
