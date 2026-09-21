@@ -40,7 +40,7 @@
                 <!-- Content -->
                 <div class="p-8">
                     <p class="mt-2 italic text-stone-600">
-                        {{ $speaker['name'] }}
+                        {{ $speaker['title'] }}
                     </p>
                     <h3 class="mt-2 text-3xl tracking-tight text-[#332d29]">
                         {{ $speaker['name'] }}
