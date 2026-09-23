@@ -10,7 +10,7 @@ return [
         [
             'title' => 'Session I',
             'starts_at' => '2026-09-24 18:30',
-            'video_id' => 'FKI5oWQwyTw',
+            'video_id' => '0CikLEWBU98',
             'speakers' => [
                 'budziszewski',
                 'warren',
@@ -20,7 +20,7 @@ return [
         [
             'title' => 'Session II',
             'starts_at' => '2026-09-25 08:45',
-            'video_id' => null,
+            'video_id' => 'BIYgiQQDBiQ',
             'speakers' => [
                 'trueman',
                 'deneen',
@@ -31,7 +31,7 @@ return [
         [
             'title' => 'Session III',
             'starts_at' => '2026-09-25 13:45',
-            'video_id' => null,
+            'video_id' => 'wTXbbON9FbA',
             'speakers' => [
                 'trueman',
                 'deneen',
@@ -43,7 +43,7 @@ return [
         [
             'title' => 'Session IV',
             'starts_at' => '2026-09-25 18:45',
-            'video_id' => null,
+            'video_id' => 'fgfkpY_zoSM',
             'speakers' => [
                 'gress',
             ],
@@ -52,7 +52,7 @@ return [
         [
             'title' => 'Session V',
             'starts_at' => '2026-09-26 08:45',
-            'video_id' => null,
+            'video_id' => 'Sb9WajMStiY',
             'speakers' => [
                 'macleod',
                 'dreher',
