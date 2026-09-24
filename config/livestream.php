@@ -13,7 +13,6 @@ return [
             'video_id' => '0CikLEWBU98',
             'speakers' => [
                 'budziszewski',
-                'warren',
             ],
             'description' => "Thursday Evening, September 24, 2026",
         ],
@@ -22,7 +21,7 @@ return [
             'starts_at' => '2026-09-25 08:45',
             'video_id' => 'BIYgiQQDBiQ',
             'speakers' => [
-                'trueman',
+                'warren',
                 'deneen',
                 'birzer',
             ],
@@ -33,7 +32,6 @@ return [
             'starts_at' => '2026-09-25 13:45',
             'video_id' => 'wTXbbON9FbA',
             'speakers' => [
-                'trueman',
                 'deneen',
                 'dreher',
                 'wiley',
