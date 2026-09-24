@@ -43,18 +43,7 @@
                     </div>
                 </div>
 
-                <div class="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
-                    <time class="font-semibold text-red-900">8:00 p.m.</time>
-                    <div>
-                        <p class="font-semibold text-stone-900">Fr. Theophan Warren</p>
-                        <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            Testing the Spirits
-                        </h3>
-                        <p class="italic text-stone-600">
-                            Christian Discernment in an Age of Lawlessness
-                        </p>
-                    </div>
-                </div>
+                
 
                 <div class="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
                     <time class="font-semibold text-red-900">9:00 p.m.</time>
@@ -77,14 +66,14 @@
 
             <div class="divide-y divide-stone-200">
                 <div class="grid gap-1 py-5 sm:grid-cols-[8rem_1fr] sm:gap-6">
-                    <time class="font-semibold text-red-900">9:00 a.m.</time>
+                    <time class="font-semibold text-red-900">8:00 p.m.</time>
                     <div>
-                        <p class="font-semibold text-stone-900">Carl Trueman</p>
+                        <p class="font-semibold text-stone-900">Fr. Theophan Warren</p>
                         <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
-                            Land of Lost Content
+                            Testing the Spirits
                         </h3>
                         <p class="italic text-stone-600">
-                            Reflections on England and a Cultured Loss of Faith
+                            Christian Discernment in an Age of Lawlessness
                         </p>
                     </div>
                 </div>
@@ -98,7 +87,7 @@
                     <time class="font-semibold text-red-900">10:30 a.m.</time>
                     <div>
                         <p class="font-semibold text-stone-900">Patrick Deneen</p>
-                        <p class="font-semibold text-stone-900">Patrick Deneen</p>
+                        <p class="font-semibold text-stone-900">Bradley J. Birzer</p>
                         <h3 class="mt-1 font-serif text-xl font-bold text-stone-900">
                             The Future of the American Past
                         </h3>
@@ -130,7 +119,7 @@
                             No Christianity, No Freedom
                         </h3>
                         <p class="mt-1 text-stone-600">
-                            Carl Trueman, Patrick Deneen, Rod Dreher &amp; C.&nbsp;R. Wiley
+                            Patrick Deneen, Rod Dreher &amp; C.&nbsp;R. Wiley
                         </p>
                     </div>
                 </div>
