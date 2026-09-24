@@ -5,7 +5,7 @@
 
     <p class="text-center mb-2 text-2xl text-touchstone-red">Livestream</p>
 
-    <p>Welcome to Session One of the 2026 <em>Touchstone</em> Conference, City on a Hill? Christians in America at 250.</p>
+    <p>Welcome to Session One of the 2026 <em>Touchstone</em> Conference, City on a Hill? Christians in America at 250. <strong>Program update: </strong>Carl R. Trueman is unable to join us for this year’s conference due to illness. We’re sorry to miss him and wish him a speedy recovery. Thank you for your understanding.</p>
 
     <div class='text-center'>
         <p class="mt-4 font-bold">{{ $currentSession['title'] }} — {{ $currentSession['description'] }}</p>
